@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football Guessing Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="result" class="result"></div> <!-- Posicionado acima das fotos -->
+
+    <div class="player-container">
+        <div class="player">
+            <img id="player1-img" src="" alt="Player 1">
+            <p id="player1-name"></p>
+        </div>
+        <div class="player">
+            <img id="player2-img" src="" alt="Player 2">
+            <p id="player2-name"></p>
+        </div>
+    </div>
+
+    <div class="search-container">
+        <input type="text" id="search" placeholder="Digite o nome do jogador...">
+        <button id="submit-btn">Chutar</button>
+        <div id="suggestions" class="suggestions"></div>
+    </div>
+
+    <div id="attempts-container" class="attempts-container"></div> <!-- Container para exibir as tentativas -->
+    <div id="correct-answers-container" class="correct-answers-container"></div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

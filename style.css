@@ -1,0 +1,132 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    user-select: none; /* Evita seleção de texto em toda a página */
+}
+
+.player-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.player {
+    text-align: center;
+    margin: 0 20px;
+}
+
+.player img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: contain;
+    border: 3px solid #ddd;
+    transform: scale(0.9);
+}
+
+.search-container {
+    position: relative;
+    display: flex;
+    width: 400px;
+    margin-bottom: 20px; /* Adiciona espaço entre a search bar e as tentativas */
+}
+
+.search-container input {
+    flex-grow: 1; /* Permite que a barra de pesquisa ocupe todo o espaço disponível */
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px; /* Bordas arredondadas para a esquerda */
+    outline: none; /* Remove o contorno de foco ao clicar fora */
+    user-select: text; /* Permite a seleção de texto apenas na search bar */
+}
+
+.search-container button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 0 5px 5px 0; /* Bordas arredondadas para a direita */
+    cursor: pointer;
+}
+
+.suggestions {
+    border: 1px solid #ccc;
+    border-top: none;
+    max-height: 150px;
+    overflow-y: hidden; /* Remove a scroll bar */
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    z-index: 1000;
+    display: none;
+}
+
+.suggestions div {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.suggestions div.suggestion-active,
+.suggestions div:hover {
+    background-color: #f0f0f0;
+}
+
+.suggestions div span {
+    font-weight: bold;
+}
+
+.result {
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+    visibility: hidden;
+}
+
+.attempts-container {
+    margin-top: 20px;
+    width: 400px;
+    text-align: left;
+}
+
+.attempts-container div {
+    padding: 5px;
+    font-size: 14px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+}
+
+.correct-answers-container {
+    margin-top: 20px;
+    width: 400px;
+    text-align: left;
+}
+
+.correct-answer {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.other-answer {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    text-align: center;
+}

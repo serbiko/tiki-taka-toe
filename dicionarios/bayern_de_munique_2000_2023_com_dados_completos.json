@@ -1,0 +1,5616 @@
+{
+    "1995": [
+        {
+            "name": "Markus Babbel",
+            "birthdate": "Sep 8, 1972 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Tomas Tomic",
+            "birthdate": "Jan 10, 1977 (47)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Oliver Kreuzer",
+            "birthdate": "Nov 13, 1965 (58)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Hans Pflügler",
+            "birthdate": "Mar 27, 1960 (64)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Christian Nerlinger",
+            "birthdate": "Mar 21, 1973 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Michael Probst",
+            "birthdate": "Nov 20, 1962 (61)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Oliver Kahn",
+            "birthdate": "Jun 15, 1969 (55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Helmer",
+            "birthdate": "Apr 21, 1965 (59)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Roman Grill",
+            "birthdate": "Mar 1, 1966 (58)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Dieter Frey",
+            "birthdate": "Oct 31, 1972 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Sven Scheuer",
+            "birthdate": "Jan 19, 1971 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Lothar Matthäus",
+            "birthdate": "Mar 21, 1961 (63)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Christian Ziege",
+            "birthdate": "Feb 1, 1972 (52)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Strunz",
+            "birthdate": "Apr 25, 1968 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Mehmet Scholl",
+            "birthdate": "Oct 16, 1970 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Alain Sutter",
+            "birthdate": "Jan 22, 1968 (56)",
+            "nationality": "Switzerland",
+            "market_value": "-"
+        },
+        {
+            "name": "Ciriaco Sforza",
+            "birthdate": "Mar 2, 1970 (54)",
+            "nationality": "Switzerland",
+            "market_value": "-"
+        },
+        {
+            "name": "Andreas Herzog",
+            "birthdate": "Sep 10, 1968 (55)",
+            "nationality": "Austria",
+            "market_value": "-"
+        },
+        {
+            "name": "Marcel Witeczek",
+            "birthdate": "Oct 18, 1968 (55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Jürgen Klinsmann",
+            "birthdate": "Jul 30, 1964 (60)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Emil Kostadinov",
+            "birthdate": "Aug 12, 1967 (57)",
+            "nationality": "Bulgaria",
+            "market_value": "-"
+        },
+        {
+            "name": "Alexander Zickler",
+            "birthdate": "Feb 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Jean-Pierre Papin",
+            "birthdate": "Nov 5, 1963 (60)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Dietmar Hamann",
+            "birthdate": "Aug 27, 1973 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        }
+    ],
+    "1996": [
+        {
+            "name": "Oliver Kahn",
+            "birthdate": "Jun 15, 1969 (55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Sven Scheuer",
+            "birthdate": "Jan 19, 1971 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Helmer",
+            "birthdate": "Apr 21, 1965 (59)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Oliver Kreuzer",
+            "birthdate": "Nov 13, 1965 (58)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Christian Nerlinger",
+            "birthdate": "Mar 21, 1973 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Strunz",
+            "birthdate": "Apr 25, 1968 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Lothar Matthäus",
+            "birthdate": "Mar 21, 1961 (63)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Dietmar Hamann",
+            "birthdate": "Aug 27, 1973 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Bernd Dreher",
+            "birthdate": "Nov 2, 1966 (57)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Mehmet Scholl",
+            "birthdate": "Oct 16, 1970 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Markus Babbel",
+            "birthdate": "Sep 8, 1972 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Markus Münch",
+            "birthdate": "Sep 7, 1972 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Samuel Kuffour",
+            "birthdate": "Sep 3, 1976 (47)",
+            "nationality": "Ghana",
+            "market_value": "-"
+        },
+        {
+            "name": "Marcel Witeczek",
+            "birthdate": "Oct 18, 1968 (55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Jürgen Klinsmann",
+            "birthdate": "Jul 30, 1964 (60)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Frank Wiblishauser",
+            "birthdate": "Oct 18, 1977 (46)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Alexander Zickler",
+            "birthdate": "Feb 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Markus Oberleitner",
+            "birthdate": "Aug 16, 1973 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Frank Gerster",
+            "birthdate": "Apr 15, 1976 (48)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Mario Basler",
+            "birthdate": "N/A(55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Christian Ziege",
+            "birthdate": "Feb 1, 1972 (52)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Stefan Leitl",
+            "birthdate": "Aug 29, 1977 (47)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Carsten Jancker",
+            "birthdate": "Aug 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Carsten Lakies",
+            "birthdate": "Jan 8, 1971 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Ruggiero Rizzitelli",
+            "birthdate": "Sep 2, 1967 (56)",
+            "nationality": "Italy",
+            "market_value": "-"
+        }
+    ],
+    "1997": [
+        {
+            "name": "Oliver Kahn",
+            "birthdate": "Jun 15, 1969 (55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Bernd Dreher",
+            "birthdate": "Nov 2, 1966 (57)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Markus Babbel",
+            "birthdate": "Sep 8, 1972 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Sven Scheuer",
+            "birthdate": "Jan 19, 1971 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Helmer",
+            "birthdate": "Apr 21, 1965 (59)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Samuel Kuffour",
+            "birthdate": "Sep 3, 1976 (47)",
+            "nationality": "Ghana",
+            "market_value": "-"
+        },
+        {
+            "name": "Markus Münch",
+            "birthdate": "Sep 7, 1972 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Dennis Grassow",
+            "birthdate": "Oct 10, 1971 (52)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Strunz",
+            "birthdate": "Apr 25, 1968 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Frank Wiblishauser",
+            "birthdate": "Oct 18, 1977 (46)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Christian Nerlinger",
+            "birthdate": "Mar 21, 1973 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Christian Saba",
+            "birthdate": "Dec 29, 1978 (45)",
+            "nationality": "Ghana",
+            "market_value": "-"
+        },
+        {
+            "name": "Lothar Matthäus",
+            "birthdate": "Mar 21, 1961 (63)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Dietmar Hamann",
+            "birthdate": "Aug 27, 1973 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Markus Weinzierl",
+            "birthdate": "Dec 28, 1974 (49)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Frank Gerster",
+            "birthdate": "Apr 15, 1976 (48)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Bixente Lizarazu",
+            "birthdate": "Dec 9, 1969 (54)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Mario Basler",
+            "birthdate": "N/A(55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Mehmet Scholl",
+            "birthdate": "Oct 16, 1970 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Stefan Leitl",
+            "birthdate": "Aug 29, 1977 (47)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Carsten Jancker",
+            "birthdate": "Aug 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Alexander Bugera",
+            "birthdate": "Aug 8, 1978 (46)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Ruggiero Rizzitelli",
+            "birthdate": "Sep 2, 1967 (56)",
+            "nationality": "Italy",
+            "market_value": "-"
+        },
+        {
+            "name": "Alexander Zickler",
+            "birthdate": "Feb 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thorsten Fink",
+            "birthdate": "Oct 29, 1967 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Michael Tarnat",
+            "birthdate": "Oct 27, 1969 (54)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Jeffrey Aubynn",
+            "birthdate": "May 12, 1977 (47)",
+            "nationality": "Sweden",
+            "market_value": "-"
+        },
+        {
+            "name": "Emanuel Bentil",
+            "birthdate": "Dec 3, 1978 (45)",
+            "nationality": "Ghana",
+            "market_value": "-"
+        },
+        {
+            "name": "David Jarolim",
+            "birthdate": "May 17, 1979 (45)",
+            "nationality": "Czech Republic",
+            "market_value": "-"
+        },
+        {
+            "name": "Giovane Élber",
+            "birthdate": "Jul 23, 1972 (52)",
+            "nationality": "Brazil",
+            "market_value": "-"
+        }
+    ],
+    "1998": [
+        {
+            "name": "Oliver Kahn",
+            "birthdate": "Jun 15, 1969 (55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Sven Scheuer",
+            "birthdate": "Jan 19, 1971 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Samuel Kuffour",
+            "birthdate": "Sep 3, 1976 (47)",
+            "nationality": "Ghana",
+            "market_value": "-"
+        },
+        {
+            "name": "Markus Weinzierl",
+            "birthdate": "Dec 28, 1974 (49)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Markus Babbel",
+            "birthdate": "Sep 8, 1972 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Bernd Dreher",
+            "birthdate": "Nov 2, 1966 (57)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Christian Saba",
+            "birthdate": "Dec 29, 1978 (45)",
+            "nationality": "Ghana",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Helmer",
+            "birthdate": "Apr 21, 1965 (59)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Alexander Bugera",
+            "birthdate": "Aug 8, 1978 (46)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Frank Wiblishauser",
+            "birthdate": "Oct 18, 1977 (46)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Bixente Lizarazu",
+            "birthdate": "Dec 9, 1969 (54)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Linke",
+            "birthdate": "Dec 26, 1969 (54)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Michael Tarnat",
+            "birthdate": "Oct 27, 1969 (54)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Alexander Klitzpera",
+            "birthdate": "Oct 19, 1977 (46)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Lothar Matthäus",
+            "birthdate": "Mar 21, 1961 (63)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Strunz",
+            "birthdate": "Apr 25, 1968 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Emanuel Bentil",
+            "birthdate": "Dec 3, 1978 (45)",
+            "nationality": "Ghana",
+            "market_value": "-"
+        },
+        {
+            "name": "Thorsten Fink",
+            "birthdate": "Oct 29, 1967 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Mario Basler",
+            "birthdate": "N/A(55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Jens Jeremies",
+            "birthdate": "Mar 5, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "David Jarolim",
+            "birthdate": "May 17, 1979 (45)",
+            "nationality": "Czech Republic",
+            "market_value": "-"
+        },
+        {
+            "name": "Mehmet Scholl",
+            "birthdate": "Oct 16, 1970 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Giovane Élber",
+            "birthdate": "Jul 23, 1972 (52)",
+            "nationality": "Brazil",
+            "market_value": "-"
+        },
+        {
+            "name": "Carsten Jancker",
+            "birthdate": "Aug 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Alexander Zickler",
+            "birthdate": "Feb 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Nils-Eric Johansson",
+            "birthdate": "Jan 13, 1980 (44)",
+            "nationality": "Sweden",
+            "market_value": "-"
+        },
+        {
+            "name": "Stefan Effenberg",
+            "birthdate": "Aug 2, 1968 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Berkant Göktan",
+            "birthdate": "Dec 12, 1980 (43)",
+            "nationality": "Türkiye",
+            "market_value": "-"
+        },
+        {
+            "name": "Ali Daei",
+            "birthdate": "Mar 21, 1969 (55)",
+            "nationality": "Iran",
+            "market_value": "-"
+        },
+        {
+            "name": "Hasan Salihamidzic",
+            "birthdate": "Jan 1, 1977 (47)",
+            "nationality": "Bosnia-Herzegovina",
+            "market_value": "-"
+        }
+    ],
+    "1999": [
+        {
+            "name": "Oliver Kahn",
+            "birthdate": "Jun 15, 1969 (55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Bernd Dreher",
+            "birthdate": "Nov 2, 1966 (57)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Samuel Kuffour",
+            "birthdate": "Sep 3, 1976 (47)",
+            "nationality": "Ghana",
+            "market_value": "-"
+        },
+        {
+            "name": "Sven Scheuer",
+            "birthdate": "Jan 19, 1971 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Markus Babbel",
+            "birthdate": "Sep 8, 1972 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Linke",
+            "birthdate": "Dec 26, 1969 (54)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Michael Tarnat",
+            "birthdate": "Oct 27, 1969 (54)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Nils-Eric Johansson",
+            "birthdate": "Jan 13, 1980 (44)",
+            "nationality": "Sweden",
+            "market_value": "-"
+        },
+        {
+            "name": "Bixente Lizarazu",
+            "birthdate": "Dec 9, 1969 (54)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Frank Wiblishauser",
+            "birthdate": "Oct 18, 1977 (46)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Strunz",
+            "birthdate": "Apr 25, 1968 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Patrik Andersson",
+            "birthdate": "Aug 18, 1971 (53)",
+            "nationality": "Sweden",
+            "market_value": "-"
+        },
+        {
+            "name": "Jens Jeremies",
+            "birthdate": "Mar 5, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Lothar Matthäus",
+            "birthdate": "Mar 21, 1961 (63)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Andrew Sinkala",
+            "birthdate": "N/A(45)",
+            "nationality": "Zambia",
+            "market_value": "-"
+        },
+        {
+            "name": "Thorsten Fink",
+            "birthdate": "Oct 29, 1967 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Emanuel Bentil",
+            "birthdate": "Dec 3, 1978 (45)",
+            "nationality": "Ghana",
+            "market_value": "-"
+        },
+        {
+            "name": "Stefan Wessels",
+            "birthdate": "Feb 28, 1979 (45)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "David Jarolim",
+            "birthdate": "May 17, 1979 (45)",
+            "nationality": "Czech Republic",
+            "market_value": "-"
+        },
+        {
+            "name": "Mehmet Scholl",
+            "birthdate": "Oct 16, 1970 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Mario Basler",
+            "birthdate": "N/A(55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Hasan Salihamidzic",
+            "birthdate": "Jan 1, 1977 (47)",
+            "nationality": "Bosnia-Herzegovina",
+            "market_value": "-"
+        },
+        {
+            "name": "Giovane Élber",
+            "birthdate": "Jul 23, 1972 (52)",
+            "nationality": "Brazil",
+            "market_value": "-"
+        },
+        {
+            "name": "Stefan Effenberg",
+            "birthdate": "Aug 2, 1968 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Carsten Jancker",
+            "birthdate": "Aug 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Alexander Zickler",
+            "birthdate": "Feb 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Michael Wiesinger",
+            "birthdate": "Dec 27, 1972 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Jan Schlösser",
+            "birthdate": "Sep 27, 1982 (41)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Paulo Sérgio",
+            "birthdate": "Jun 2, 1969 (55)",
+            "nationality": "Brazil",
+            "market_value": "-"
+        },
+        {
+            "name": "Antonio Di Salvo",
+            "birthdate": "Jun 5, 1979 (45)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Slawomir Wojciechowski",
+            "birthdate": "Sep 6, 1973 (50)",
+            "nationality": "Poland",
+            "market_value": "-"
+        },
+        {
+            "name": "Roque Santa Cruz",
+            "birthdate": "Aug 16, 1981 (43)",
+            "nationality": "Paraguay",
+            "market_value": "-"
+        }
+    ],
+    "2000": [
+        {
+            "name": "Oliver Kahn",
+            "birthdate": "Jun 15, 1969 (55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Bernd Dreher",
+            "birthdate": "Nov 2, 1966 (57)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Patrik Andersson",
+            "birthdate": "Aug 18, 1971 (53)",
+            "nationality": "Sweden",
+            "market_value": "-"
+        },
+        {
+            "name": "Samuel Kuffour",
+            "birthdate": "Sep 3, 1976 (47)",
+            "nationality": "Ghana",
+            "market_value": "-"
+        },
+        {
+            "name": "Bixente Lizarazu",
+            "birthdate": "Dec 9, 1969 (54)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Stefan Wessels",
+            "birthdate": "Feb 28, 1979 (45)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Linke",
+            "birthdate": "Dec 26, 1969 (54)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Michael Tarnat",
+            "birthdate": "Oct 27, 1969 (54)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Strunz",
+            "birthdate": "Apr 25, 1968 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Jens Jeremies",
+            "birthdate": "Mar 5, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Owen Hargreaves",
+            "birthdate": "Jan 20, 1981 (43)",
+            "nationality": "England",
+            "market_value": "-"
+        },
+        {
+            "name": "Thorsten Fink",
+            "birthdate": "Oct 29, 1967 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Ciriaco Sforza",
+            "birthdate": "Mar 2, 1970 (54)",
+            "nationality": "Switzerland",
+            "market_value": "-"
+        },
+        {
+            "name": "Stefan Effenberg",
+            "birthdate": "Aug 2, 1968 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Michael Wiesinger",
+            "birthdate": "Dec 27, 1972 (51)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Hasan Salihamidzic",
+            "birthdate": "Jan 1, 1977 (47)",
+            "nationality": "Bosnia-Herzegovina",
+            "market_value": "-"
+        },
+        {
+            "name": "Robert Kovac",
+            "birthdate": "Apr 6, 1974 (50)",
+            "nationality": "Croatia",
+            "market_value": "-"
+        },
+        {
+            "name": "Sebastian Backer",
+            "birthdate": "N/A(43)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Pablo Thiam",
+            "birthdate": "Jan 3, 1974 (50)",
+            "nationality": "Guinea",
+            "market_value": "-"
+        },
+        {
+            "name": "Slawomir Wojciechowski",
+            "birthdate": "Sep 6, 1973 (50)",
+            "nationality": "Poland",
+            "market_value": "-"
+        },
+        {
+            "name": "Willy Sagnol",
+            "birthdate": "Mar 18, 1977 (47)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Mehmet Scholl",
+            "birthdate": "Oct 16, 1970 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Paulo Sérgio",
+            "birthdate": "Jun 2, 1969 (55)",
+            "nationality": "Brazil",
+            "market_value": "-"
+        },
+        {
+            "name": "Stephan Kling",
+            "birthdate": "Mar 22, 1981 (43)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Carsten Jancker",
+            "birthdate": "Aug 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Niko Kovac",
+            "birthdate": "Oct 15, 1971 (52)",
+            "nationality": "Croatia",
+            "market_value": "-"
+        },
+        {
+            "name": "Giovane Élber",
+            "birthdate": "Jul 23, 1972 (52)",
+            "nationality": "Brazil",
+            "market_value": "-"
+        },
+        {
+            "name": "Claudio Pizarro",
+            "birthdate": "Oct 3, 1978 (45)",
+            "nationality": "Peru",
+            "market_value": "-"
+        },
+        {
+            "name": "Alexander Zickler",
+            "birthdate": "Feb 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Alou Diarra",
+            "birthdate": "Jul 15, 1981 (43)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Antonio Di Salvo",
+            "birthdate": "Jun 5, 1979 (45)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Roque Santa Cruz",
+            "birthdate": "Aug 16, 1981 (43)",
+            "nationality": "Paraguay",
+            "market_value": "-"
+        },
+        {
+            "name": "Berkant Göktan",
+            "birthdate": "Dec 12, 1980 (43)",
+            "nationality": "Türkiye",
+            "market_value": "-"
+        },
+        {
+            "name": "Patrick Mölzl",
+            "birthdate": "Dec 28, 1980 (43)",
+            "nationality": "Germany",
+            "market_value": "-"
+        }
+    ],
+    "2001": [
+        {
+            "name": "Oliver Kahn",
+            "birthdate": "Jun 15, 1969 (55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Samuel Kuffour",
+            "birthdate": "Sep 3, 1976 (47)",
+            "nationality": "Ghana",
+            "market_value": "-"
+        },
+        {
+            "name": "Stefan Wessels",
+            "birthdate": "Feb 28, 1979 (45)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Bixente Lizarazu",
+            "birthdate": "Dec 9, 1969 (54)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Jan Schlösser",
+            "birthdate": "Sep 27, 1982 (41)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Linke",
+            "birthdate": "Dec 26, 1969 (54)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Robert Kovac",
+            "birthdate": "Apr 6, 1974 (50)",
+            "nationality": "Croatia",
+            "market_value": "-"
+        },
+        {
+            "name": "Michael Tarnat",
+            "birthdate": "Oct 27, 1969 (54)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Willy Sagnol",
+            "birthdate": "Mar 18, 1977 (47)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Bernd Dreher",
+            "birthdate": "Nov 2, 1966 (57)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Stephan Kling",
+            "birthdate": "Mar 22, 1981 (43)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Pablo Thiam",
+            "birthdate": "Jan 3, 1974 (50)",
+            "nationality": "Guinea",
+            "market_value": "-"
+        },
+        {
+            "name": "Thorsten Fink",
+            "birthdate": "Oct 29, 1967 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Niko Kovac",
+            "birthdate": "Oct 15, 1971 (52)",
+            "nationality": "Croatia",
+            "market_value": "-"
+        },
+        {
+            "name": "Jens Jeremies",
+            "birthdate": "Mar 5, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Ciriaco Sforza",
+            "birthdate": "Mar 2, 1970 (54)",
+            "nationality": "Switzerland",
+            "market_value": "-"
+        },
+        {
+            "name": "Stefan Effenberg",
+            "birthdate": "Aug 2, 1968 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Alou Diarra",
+            "birthdate": "Jul 15, 1981 (43)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Owen Hargreaves",
+            "birthdate": "Jan 20, 1981 (43)",
+            "nationality": "England",
+            "market_value": "-"
+        },
+        {
+            "name": "Patrick Mölzl",
+            "birthdate": "Dec 28, 1980 (43)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Hasan Salihamidzic",
+            "birthdate": "Jan 1, 1977 (47)",
+            "nationality": "Bosnia-Herzegovina",
+            "market_value": "-"
+        },
+        {
+            "name": "Mehmet Scholl",
+            "birthdate": "Oct 16, 1970 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Claudio Pizarro",
+            "birthdate": "Oct 3, 1978 (45)",
+            "nationality": "Peru",
+            "market_value": "-"
+        },
+        {
+            "name": "Markus Feulner",
+            "birthdate": "Feb 12, 1982 (42)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Paulo Sérgio",
+            "birthdate": "Jun 2, 1969 (55)",
+            "nationality": "Brazil",
+            "market_value": "-"
+        },
+        {
+            "name": "Antonio Di Salvo",
+            "birthdate": "Jun 5, 1979 (45)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Giovane Élber",
+            "birthdate": "Jul 23, 1972 (52)",
+            "nationality": "Brazil",
+            "market_value": "-"
+        },
+        {
+            "name": "Alexander Zickler",
+            "birthdate": "Feb 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Carsten Jancker",
+            "birthdate": "Aug 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Roque Santa Cruz",
+            "birthdate": "Aug 16, 1981 (43)",
+            "nationality": "Paraguay",
+            "market_value": "-"
+        },
+        {
+            "name": "Florian Heller",
+            "birthdate": "N/A(42)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Steffen Hofmann",
+            "birthdate": "Sep 9, 1980 (43)",
+            "nationality": "Germany",
+            "market_value": "-"
+        }
+    ],
+    "2002": [
+        {
+            "name": "Oliver Kahn",
+            "birthdate": "Jun 15, 1969 (55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Bernd Dreher",
+            "birthdate": "Nov 2, 1966 (57)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Samuel Kuffour",
+            "birthdate": "Sep 3, 1976 (47)",
+            "nationality": "Ghana",
+            "market_value": "-"
+        },
+        {
+            "name": "Stefan Wessels",
+            "birthdate": "Feb 28, 1979 (45)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Jan Schlösser",
+            "birthdate": "Sep 27, 1982 (41)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Willy Sagnol",
+            "birthdate": "Mar 18, 1977 (47)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Bixente Lizarazu",
+            "birthdate": "Dec 9, 1969 (54)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Robert Kovac",
+            "birthdate": "Apr 6, 1974 (50)",
+            "nationality": "Croatia",
+            "market_value": "-"
+        },
+        {
+            "name": "Michael Tarnat",
+            "birthdate": "Oct 27, 1969 (54)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Linke",
+            "birthdate": "Dec 26, 1969 (54)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Niko Kovac",
+            "birthdate": "Oct 15, 1971 (52)",
+            "nationality": "Croatia",
+            "market_value": "-"
+        },
+        {
+            "name": "Pablo Thiam",
+            "birthdate": "Jan 3, 1974 (50)",
+            "nationality": "Guinea",
+            "market_value": "-"
+        },
+        {
+            "name": "Jens Jeremies",
+            "birthdate": "Mar 5, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Owen Hargreaves",
+            "birthdate": "Jan 20, 1981 (43)",
+            "nationality": "England",
+            "market_value": "-"
+        },
+        {
+            "name": "Thorsten Fink",
+            "birthdate": "Oct 29, 1967 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Hasan Salihamidzic",
+            "birthdate": "Jan 1, 1977 (47)",
+            "nationality": "Bosnia-Herzegovina",
+            "market_value": "-"
+        },
+        {
+            "name": "Markus Feulner",
+            "birthdate": "Feb 12, 1982 (42)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Michael Ballack",
+            "birthdate": "Sep 26, 1976 (47)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Mehmet Scholl",
+            "birthdate": "Oct 16, 1970 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Giovane Élber",
+            "birthdate": "Jul 23, 1972 (52)",
+            "nationality": "Brazil",
+            "market_value": "-"
+        },
+        {
+            "name": "Claudio Pizarro",
+            "birthdate": "Oct 3, 1978 (45)",
+            "nationality": "Peru",
+            "market_value": "-"
+        },
+        {
+            "name": "Barbaros Barut",
+            "birthdate": "Jan 26, 1983 (41)",
+            "nationality": "Türkiye",
+            "market_value": "-"
+        },
+        {
+            "name": "Bastian Schweinsteiger",
+            "birthdate": "Aug 1, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Alexander Zickler",
+            "birthdate": "Feb 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Sebastian Deisler",
+            "birthdate": "Jan 5, 1980 (44)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Roque Santa Cruz",
+            "birthdate": "Aug 16, 1981 (43)",
+            "nationality": "Paraguay",
+            "market_value": "-"
+        },
+        {
+            "name": "Zvjezdan Misimovic",
+            "birthdate": "Jun 5, 1982 (42)",
+            "nationality": "Bosnia-Herzegovina",
+            "market_value": "-"
+        },
+        {
+            "name": "Philipp Lahm",
+            "birthdate": "Nov 11, 1983 (40)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Zé Roberto",
+            "birthdate": "Jul 6, 1974 (50)",
+            "nationality": "Brazil",
+            "market_value": "-"
+        },
+        {
+            "name": "Piotr Trochowski",
+            "birthdate": "Mar 22, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "-"
+        }
+    ],
+    "2003": [
+        {
+            "name": "Oliver Kahn",
+            "birthdate": "Jun 15, 1969 (55)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Jan Schlösser",
+            "birthdate": "Sep 27, 1982 (41)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Samuel Kuffour",
+            "birthdate": "Sep 3, 1976 (47)",
+            "nationality": "Ghana",
+            "market_value": "-"
+        },
+        {
+            "name": "Thomas Linke",
+            "birthdate": "Dec 26, 1969 (54)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Robert Kovac",
+            "birthdate": "Apr 6, 1974 (50)",
+            "nationality": "Croatia",
+            "market_value": "-"
+        },
+        {
+            "name": "Bixente Lizarazu",
+            "birthdate": "Dec 9, 1969 (54)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Willy Sagnol",
+            "birthdate": "Mar 18, 1977 (47)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Michael Rensing",
+            "birthdate": "May 14, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Jens Jeremies",
+            "birthdate": "Mar 5, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Michael Ballack",
+            "birthdate": "Sep 26, 1976 (47)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Owen Hargreaves",
+            "birthdate": "Jan 20, 1981 (43)",
+            "nationality": "England",
+            "market_value": "-"
+        },
+        {
+            "name": "Thorsten Fink",
+            "birthdate": "Oct 29, 1967 (56)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Tobias Rau",
+            "birthdate": "Dec 31, 1981 (42)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Markus Grünberger",
+            "birthdate": "Aug 29, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Martín Demichelis",
+            "birthdate": "Dec 20, 1980 (43)",
+            "nationality": "Argentina",
+            "market_value": "-"
+        },
+        {
+            "name": "Bastian Schweinsteiger",
+            "birthdate": "Aug 1, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Markus Feulner",
+            "birthdate": "Feb 12, 1982 (42)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Sebastian Deisler",
+            "birthdate": "Jan 5, 1980 (44)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Christian Lell",
+            "birthdate": "Aug 29, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Hasan Salihamidzic",
+            "birthdate": "Jan 1, 1977 (47)",
+            "nationality": "Bosnia-Herzegovina",
+            "market_value": "-"
+        },
+        {
+            "name": "Zé Roberto",
+            "birthdate": "Jul 6, 1974 (50)",
+            "nationality": "Brazil",
+            "market_value": "-"
+        },
+        {
+            "name": "Mehmet Scholl",
+            "birthdate": "Oct 16, 1970 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Zvjezdan Misimovic",
+            "birthdate": "Jun 5, 1982 (42)",
+            "nationality": "Bosnia-Herzegovina",
+            "market_value": "-"
+        },
+        {
+            "name": "Alexander Zickler",
+            "birthdate": "Feb 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Piotr Trochowski",
+            "birthdate": "Mar 22, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Roque Santa Cruz",
+            "birthdate": "Aug 16, 1981 (43)",
+            "nationality": "Paraguay",
+            "market_value": "-"
+        },
+        {
+            "name": "Claudio Pizarro",
+            "birthdate": "Oct 3, 1978 (45)",
+            "nationality": "Peru",
+            "market_value": "-"
+        },
+        {
+            "name": "Giovane Élber",
+            "birthdate": "Jul 23, 1972 (52)",
+            "nationality": "Brazil",
+            "market_value": "-"
+        },
+        {
+            "name": "Paolo Guerrero",
+            "birthdate": "Jan 1, 1984 (40)",
+            "nationality": "Peru",
+            "market_value": "-"
+        },
+        {
+            "name": "Roy Makaay",
+            "birthdate": "Mar 9, 1975 (49)",
+            "nationality": "Netherlands",
+            "market_value": "-"
+        }
+    ],
+    "2004": [
+        {
+            "name": "Oliver Kahn",
+            "birthdate": "Jun 15, 1969 (55)",
+            "nationality": "Germany",
+            "market_value": "€7.00m"
+        },
+        {
+            "name": "Michael Rensing",
+            "birthdate": "May 14, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€750k"
+        },
+        {
+            "name": "Bernd Dreher",
+            "birthdate": "Nov 2, 1966 (57)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Jan Schlösser",
+            "birthdate": "Sep 27, 1982 (41)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Martín Demichelis",
+            "birthdate": "Dec 20, 1980 (43)",
+            "nationality": "Argentina",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "Thomas Linke",
+            "birthdate": "Dec 26, 1969 (54)",
+            "nationality": "Germany",
+            "market_value": "€800k"
+        },
+        {
+            "name": "Robert Kovac",
+            "birthdate": "Apr 6, 1974 (50)",
+            "nationality": "Croatia",
+            "market_value": "€4.50m"
+        },
+        {
+            "name": "Samuel Kuffour",
+            "birthdate": "Sep 3, 1976 (47)",
+            "nationality": "Ghana",
+            "market_value": "€5.50m"
+        },
+        {
+            "name": "Bixente Lizarazu",
+            "birthdate": "Dec 9, 1969 (54)",
+            "nationality": "France",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Tobias Rau",
+            "birthdate": "Dec 31, 1981 (42)",
+            "nationality": "Germany",
+            "market_value": "€1.25m"
+        },
+        {
+            "name": "Lúcio",
+            "birthdate": "May 8, 1978 (46)",
+            "nationality": "Brazil",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "Willy Sagnol",
+            "birthdate": "Mar 18, 1977 (47)",
+            "nationality": "France",
+            "market_value": "€7.50m"
+        },
+        {
+            "name": "Owen Hargreaves",
+            "birthdate": "Jan 20, 1981 (43)",
+            "nationality": "England",
+            "market_value": "€7.50m"
+        },
+        {
+            "name": "Jens Jeremies",
+            "birthdate": "Mar 5, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Hasan Salihamidzic",
+            "birthdate": "Jan 1, 1977 (47)",
+            "nationality": "Bosnia-Herzegovina",
+            "market_value": "€4.50m"
+        },
+        {
+            "name": "Bastian Schweinsteiger",
+            "birthdate": "Aug 1, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€7.00m"
+        },
+        {
+            "name": "Sebastian Deisler",
+            "birthdate": "Jan 5, 1980 (44)",
+            "nationality": "Germany",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Michael Ballack",
+            "birthdate": "Sep 26, 1976 (47)",
+            "nationality": "Germany",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Zé Roberto",
+            "birthdate": "Jul 6, 1974 (50)",
+            "nationality": "Brazil",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "Andreas Görlitz",
+            "birthdate": "Jan 31, 1982 (42)",
+            "nationality": "Germany",
+            "market_value": "€1.25m"
+        },
+        {
+            "name": "Mehmet Scholl",
+            "birthdate": "Oct 16, 1970 (53)",
+            "nationality": "Germany",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Torsten Frings",
+            "birthdate": "Nov 22, 1976 (47)",
+            "nationality": "Germany",
+            "market_value": "€9.00m"
+        },
+        {
+            "name": "Piotr Trochowski",
+            "birthdate": "Mar 22, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Roy Makaay",
+            "birthdate": "Mar 9, 1975 (49)",
+            "nationality": "Netherlands",
+            "market_value": "€20.00m"
+        },
+        {
+            "name": "Roque Santa Cruz",
+            "birthdate": "Aug 16, 1981 (43)",
+            "nationality": "Paraguay",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Paolo Guerrero",
+            "birthdate": "Jan 1, 1984 (40)",
+            "nationality": "Peru",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Alexander Zickler",
+            "birthdate": "Feb 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "€1.25m"
+        },
+        {
+            "name": "Claudio Pizarro",
+            "birthdate": "Oct 3, 1978 (45)",
+            "nationality": "Peru",
+            "market_value": "€9.50m"
+        },
+        {
+            "name": "Vahid Hashemian",
+            "birthdate": "Jul 21, 1976 (48)",
+            "nationality": "Iran",
+            "market_value": "€3.50m"
+        }
+    ],
+    "2005": [
+        {
+            "name": "Oliver Kahn",
+            "birthdate": "Jun 15, 1969 (55)",
+            "nationality": "Germany",
+            "market_value": "€4.50m"
+        },
+        {
+            "name": "Bernd Dreher",
+            "birthdate": "Nov 2, 1966 (57)",
+            "nationality": "Germany",
+            "market_value": "€25k"
+        },
+        {
+            "name": "Michael Rensing",
+            "birthdate": "May 14, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Lúcio",
+            "birthdate": "May 8, 1978 (46)",
+            "nationality": "Brazil",
+            "market_value": "€21.50m"
+        },
+        {
+            "name": "Jan Schlösser",
+            "birthdate": "Sep 27, 1982 (41)",
+            "nationality": "Germany",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Bixente Lizarazu",
+            "birthdate": "Dec 9, 1969 (54)",
+            "nationality": "France",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Willy Sagnol",
+            "birthdate": "Mar 18, 1977 (47)",
+            "nationality": "France",
+            "market_value": "€13.50m"
+        },
+        {
+            "name": "Martín Demichelis",
+            "birthdate": "Dec 20, 1980 (43)",
+            "nationality": "Argentina",
+            "market_value": "€9.00m"
+        },
+        {
+            "name": "Philipp Lahm",
+            "birthdate": "Nov 11, 1983 (40)",
+            "nationality": "Germany",
+            "market_value": "€9.00m"
+        },
+        {
+            "name": "Valérien Ismaël",
+            "birthdate": "Sep 28, 1975 (48)",
+            "nationality": "France",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Andreas Görlitz",
+            "birthdate": "Jan 31, 1982 (42)",
+            "nationality": "Germany",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Owen Hargreaves",
+            "birthdate": "Jan 20, 1981 (43)",
+            "nationality": "England",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Jan Mauersberger",
+            "birthdate": "Jun 17, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Jens Jeremies",
+            "birthdate": "Mar 5, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Thorsten Fink",
+            "birthdate": "Oct 29, 1967 (56)",
+            "nationality": "Germany",
+            "market_value": "€150k"
+        },
+        {
+            "name": "Bastian Schweinsteiger",
+            "birthdate": "Aug 1, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Hasan Salihamidzic",
+            "birthdate": "Jan 1, 1977 (47)",
+            "nationality": "Bosnia-Herzegovina",
+            "market_value": "€5.50m"
+        },
+        {
+            "name": "Michael Ballack",
+            "birthdate": "Sep 26, 1976 (47)",
+            "nationality": "Germany",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Sebastian Deisler",
+            "birthdate": "Jan 5, 1980 (44)",
+            "nationality": "Germany",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "Mehmet Scholl",
+            "birthdate": "Oct 16, 1970 (53)",
+            "nationality": "Germany",
+            "market_value": "€1.25m"
+        },
+        {
+            "name": "Roy Makaay",
+            "birthdate": "Mar 9, 1975 (49)",
+            "nationality": "Netherlands",
+            "market_value": "€13.00m"
+        },
+        {
+            "name": "Zé Roberto",
+            "birthdate": "Jul 6, 1974 (50)",
+            "nationality": "Brazil",
+            "market_value": "€8.50m"
+        },
+        {
+            "name": "Claudio Pizarro",
+            "birthdate": "Oct 3, 1978 (45)",
+            "nationality": "Peru",
+            "market_value": "€10.50m"
+        },
+        {
+            "name": "Julio dos Santos",
+            "birthdate": "May 7, 1983 (41)",
+            "nationality": "Paraguay",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Paolo Guerrero",
+            "birthdate": "Jan 1, 1984 (40)",
+            "nationality": "Peru",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Ali Karimi",
+            "birthdate": "Nov 8, 1978 (45)",
+            "nationality": "Iran",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Andreas Ottl",
+            "birthdate": "Mar 1, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€600k"
+        },
+        {
+            "name": "Roque Santa Cruz",
+            "birthdate": "Aug 16, 1981 (43)",
+            "nationality": "Paraguay",
+            "market_value": "€2.50m"
+        }
+    ],
+    "2006": [
+        {
+            "name": "Oliver Kahn",
+            "birthdate": "Jun 15, 1969 (55)",
+            "nationality": "Germany",
+            "market_value": "€4.50m"
+        },
+        {
+            "name": "Michael Rensing",
+            "birthdate": "May 14, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Lúcio",
+            "birthdate": "May 8, 1978 (46)",
+            "nationality": "Brazil",
+            "market_value": "€16.00m"
+        },
+        {
+            "name": "Bernd Dreher",
+            "birthdate": "Nov 2, 1966 (57)",
+            "nationality": "Germany",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Martín Demichelis",
+            "birthdate": "Dec 20, 1980 (43)",
+            "nationality": "Argentina",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "Valérien Ismaël",
+            "birthdate": "Sep 28, 1975 (48)",
+            "nationality": "France",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Christian Saba",
+            "birthdate": "Dec 29, 1978 (45)",
+            "nationality": "Ghana",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Daniel Van Buyten",
+            "birthdate": "Feb 7, 1978 (46)",
+            "nationality": "Belgium",
+            "market_value": "€11.00m"
+        },
+        {
+            "name": "Philipp Lahm",
+            "birthdate": "Nov 11, 1983 (40)",
+            "nationality": "Germany",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "Willy Sagnol",
+            "birthdate": "Mar 18, 1977 (47)",
+            "nationality": "France",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "Andreas Görlitz",
+            "birthdate": "Jan 31, 1982 (42)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Christian Lell",
+            "birthdate": "Aug 29, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Mats Hummels",
+            "birthdate": "Dec 16, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Owen Hargreaves",
+            "birthdate": "Jan 20, 1981 (43)",
+            "nationality": "England",
+            "market_value": "€25.00m"
+        },
+        {
+            "name": "Andreas Ottl",
+            "birthdate": "Mar 1, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Bastian Schweinsteiger",
+            "birthdate": "Aug 1, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€12.50m"
+        },
+        {
+            "name": "Stephan Fürstner",
+            "birthdate": "Sep 11, 1987 (36)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "Julio dos Santos",
+            "birthdate": "May 7, 1983 (41)",
+            "nationality": "Paraguay",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Hasan Salihamidzic",
+            "birthdate": "Jan 1, 1977 (47)",
+            "nationality": "Bosnia-Herzegovina",
+            "market_value": "€7.25m"
+        },
+        {
+            "name": "Sebastian Deisler",
+            "birthdate": "Jan 5, 1980 (44)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Mehmet Scholl",
+            "birthdate": "Oct 16, 1970 (53)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Ali Karimi",
+            "birthdate": "Nov 8, 1978 (45)",
+            "nationality": "Iran",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Roy Makaay",
+            "birthdate": "Mar 9, 1975 (49)",
+            "nationality": "Netherlands",
+            "market_value": "€11.50m"
+        },
+        {
+            "name": "Mark van Bommel",
+            "birthdate": "Apr 22, 1977 (47)",
+            "nationality": "Netherlands",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "Roque Santa Cruz",
+            "birthdate": "Aug 16, 1981 (43)",
+            "nationality": "Paraguay",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Thomas Kraft",
+            "birthdate": "Jul 22, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€150k"
+        },
+        {
+            "name": "Claudio Pizarro",
+            "birthdate": "Oct 3, 1978 (45)",
+            "nationality": "Peru",
+            "market_value": "€9.50m"
+        },
+        {
+            "name": "Lukas Podolski",
+            "birthdate": "Jun 4, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€13.00m"
+        },
+        {
+            "name": "Louis Ngwat-Mahop",
+            "birthdate": "Sep 16, 1987 (36)",
+            "nationality": "Cameroon",
+            "market_value": "€125k"
+        },
+        {
+            "name": "Stefan Maierhofer",
+            "birthdate": "Aug 16, 1982 (42)",
+            "nationality": "Austria",
+            "market_value": "€400k"
+        }
+    ],
+    "2007": [
+        {
+            "name": "Oliver Kahn",
+            "birthdate": "Jun 15, 1969 (55)",
+            "nationality": "Germany",
+            "market_value": "€4.50m"
+        },
+        {
+            "name": "Michael Rensing",
+            "birthdate": "May 14, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Thomas Kraft",
+            "birthdate": "Jul 22, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€150k"
+        },
+        {
+            "name": "Bernd Dreher",
+            "birthdate": "Nov 2, 1966 (57)",
+            "nationality": "Germany",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Lúcio",
+            "birthdate": "May 8, 1978 (46)",
+            "nationality": "Brazil",
+            "market_value": "€18.00m"
+        },
+        {
+            "name": "Mats Hummels",
+            "birthdate": "Dec 16, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Valérien Ismaël",
+            "birthdate": "Sep 28, 1975 (48)",
+            "nationality": "France",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Daniel Van Buyten",
+            "birthdate": "Feb 7, 1978 (46)",
+            "nationality": "Belgium",
+            "market_value": "€7.00m"
+        },
+        {
+            "name": "Martín Demichelis",
+            "birthdate": "Dec 20, 1980 (43)",
+            "nationality": "Argentina",
+            "market_value": "€14.00m"
+        },
+        {
+            "name": "Philipp Lahm",
+            "birthdate": "Nov 11, 1983 (40)",
+            "nationality": "Germany",
+            "market_value": "€18.00m"
+        },
+        {
+            "name": "Willy Sagnol",
+            "birthdate": "Mar 18, 1977 (47)",
+            "nationality": "France",
+            "market_value": "€12.00m"
+        },
+        {
+            "name": "Christian Lell",
+            "birthdate": "Aug 29, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Stephan Fürstner",
+            "birthdate": "Sep 11, 1987 (36)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "Andreas Ottl",
+            "birthdate": "Mar 1, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Breno",
+            "birthdate": "Oct 13, 1989 (34)",
+            "nationality": "Brazil",
+            "market_value": "€9.00m"
+        },
+        {
+            "name": "Mark van Bommel",
+            "birthdate": "Apr 22, 1977 (47)",
+            "nationality": "Netherlands",
+            "market_value": "€12.50m"
+        },
+        {
+            "name": "Bastian Schweinsteiger",
+            "birthdate": "Aug 1, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€10.00m"
+        },
+        {
+            "name": "Marcell Jansen",
+            "birthdate": "Nov 4, 1985 (38)",
+            "nationality": "Germany",
+            "market_value": "€10.00m"
+        },
+        {
+            "name": "Julio dos Santos",
+            "birthdate": "May 7, 1983 (41)",
+            "nationality": "Paraguay",
+            "market_value": "€400k"
+        },
+        {
+            "name": "Zé Roberto",
+            "birthdate": "Jul 6, 1974 (50)",
+            "nationality": "Brazil",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Lukas Podolski",
+            "birthdate": "Jun 4, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€10.00m"
+        },
+        {
+            "name": "Stefano Celozzi",
+            "birthdate": "Nov 2, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "Roque Santa Cruz",
+            "birthdate": "Aug 16, 1981 (43)",
+            "nationality": "Paraguay",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "José Sosa",
+            "birthdate": "Jun 19, 1985 (39)",
+            "nationality": "Argentina",
+            "market_value": "€6.00m"
+        },
+        {
+            "name": "Miroslav Klose",
+            "birthdate": "Jun 9, 1978 (46)",
+            "nationality": "Germany",
+            "market_value": "€20.00m"
+        },
+        {
+            "name": "Franck Ribéry",
+            "birthdate": "Apr 7, 1983 (41)",
+            "nationality": "France",
+            "market_value": "€25.00m"
+        },
+        {
+            "name": "Jan Schlaudraff",
+            "birthdate": "Jul 18, 1983 (41)",
+            "nationality": "Germany",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Luca Toni",
+            "birthdate": "May 26, 1977 (47)",
+            "nationality": "Italy",
+            "market_value": "€28.50m"
+        },
+        {
+            "name": "Hamit Altıntop",
+            "birthdate": "Dec 8, 1982 (41)",
+            "nationality": "Türkiye",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Toni Kroos",
+            "birthdate": "Jan 4, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Sandro Wagner",
+            "birthdate": "Nov 29, 1987 (36)",
+            "nationality": "Germany",
+            "market_value": "€150k"
+        }
+    ],
+    "2008": [
+        {
+            "name": "Michael Rensing",
+            "birthdate": "May 14, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Thomas Kraft",
+            "birthdate": "Jul 22, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€300k"
+        },
+        {
+            "name": "Lúcio",
+            "birthdate": "May 8, 1978 (46)",
+            "nationality": "Brazil",
+            "market_value": "€18.00m"
+        },
+        {
+            "name": "Breno",
+            "birthdate": "Oct 13, 1989 (34)",
+            "nationality": "Brazil",
+            "market_value": "€5.50m"
+        },
+        {
+            "name": "Marcell Jansen",
+            "birthdate": "Nov 4, 1985 (38)",
+            "nationality": "Germany",
+            "market_value": "€9.50m"
+        },
+        {
+            "name": "Daniel Van Buyten",
+            "birthdate": "Feb 7, 1978 (46)",
+            "nationality": "Belgium",
+            "market_value": "€7.00m"
+        },
+        {
+            "name": "Martín Demichelis",
+            "birthdate": "Dec 20, 1980 (43)",
+            "nationality": "Argentina",
+            "market_value": "€14.00m"
+        },
+        {
+            "name": "Hans Jörg Butt",
+            "birthdate": "May 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Georg Niedermeier",
+            "birthdate": "Feb 26, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€700k"
+        },
+        {
+            "name": "Philipp Lahm",
+            "birthdate": "Nov 11, 1983 (40)",
+            "nationality": "Germany",
+            "market_value": "€25.00m"
+        },
+        {
+            "name": "Willy Sagnol",
+            "birthdate": "Mar 18, 1977 (47)",
+            "nationality": "France",
+            "market_value": "-"
+        },
+        {
+            "name": "Christian Lell",
+            "birthdate": "Aug 29, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Bastian Schweinsteiger",
+            "birthdate": "Aug 1, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€16.00m"
+        },
+        {
+            "name": "Andreas Ottl",
+            "birthdate": "Mar 1, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Mark van Bommel",
+            "birthdate": "Apr 22, 1977 (47)",
+            "nationality": "Netherlands",
+            "market_value": "€8.50m"
+        },
+        {
+            "name": "Massimo Oddo",
+            "birthdate": "Jun 14, 1976 (48)",
+            "nationality": "Italy",
+            "market_value": "€3.50m"
+        },
+        {
+            "name": "Holger Badstuber",
+            "birthdate": "Mar 13, 1989 (35)",
+            "nationality": "Germany",
+            "market_value": "€400k"
+        },
+        {
+            "name": "Toni Kroos",
+            "birthdate": "Jan 4, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "José Sosa",
+            "birthdate": "Jun 19, 1985 (39)",
+            "nationality": "Argentina",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "Hamit Altıntop",
+            "birthdate": "Dec 8, 1982 (41)",
+            "nationality": "Türkiye",
+            "market_value": "€9.00m"
+        },
+        {
+            "name": "Franck Ribéry",
+            "birthdate": "Apr 7, 1983 (41)",
+            "nationality": "France",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Zé Roberto",
+            "birthdate": "Jul 6, 1974 (50)",
+            "nationality": "Brazil",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "Miroslav Klose",
+            "birthdate": "Jun 9, 1978 (46)",
+            "nationality": "Germany",
+            "market_value": "€18.00m"
+        },
+        {
+            "name": "Lukas Podolski",
+            "birthdate": "Jun 4, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€12.00m"
+        },
+        {
+            "name": "Luca Toni",
+            "birthdate": "May 26, 1977 (47)",
+            "nationality": "Italy",
+            "market_value": "€16.00m"
+        },
+        {
+            "name": "Tim Borowski",
+            "birthdate": "May 2, 1980 (44)",
+            "nationality": "Germany",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€750k"
+        },
+        {
+            "name": "Deniz Yılmaz",
+            "birthdate": "Feb 26, 1988 (36)",
+            "nationality": "Azerbaijan",
+            "market_value": "€300k"
+        },
+        {
+            "name": "Landon Donovan",
+            "birthdate": "Mar 4, 1982 (42)",
+            "nationality": "United States",
+            "market_value": "€3.00m"
+        }
+    ],
+    "2009": [
+        {
+            "name": "Michael Rensing",
+            "birthdate": "May 14, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Martín Demichelis",
+            "birthdate": "Dec 20, 1980 (43)",
+            "nationality": "Argentina",
+            "market_value": "€10.00m"
+        },
+        {
+            "name": "Thomas Kraft",
+            "birthdate": "Jul 22, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€350k"
+        },
+        {
+            "name": "Hans Jörg Butt",
+            "birthdate": "May 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Breno",
+            "birthdate": "Oct 13, 1989 (34)",
+            "nationality": "Brazil",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Holger Badstuber",
+            "birthdate": "Mar 13, 1989 (35)",
+            "nationality": "Germany",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Daniel Van Buyten",
+            "birthdate": "Feb 7, 1978 (46)",
+            "nationality": "Belgium",
+            "market_value": "€7.00m"
+        },
+        {
+            "name": "Philipp Lahm",
+            "birthdate": "Nov 11, 1983 (40)",
+            "nationality": "Germany",
+            "market_value": "€25.00m"
+        },
+        {
+            "name": "Andreas Ottl",
+            "birthdate": "Mar 1, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Andreas Görlitz",
+            "birthdate": "Jan 31, 1982 (42)",
+            "nationality": "Germany",
+            "market_value": "€750k"
+        },
+        {
+            "name": "Christian Lell",
+            "birthdate": "Aug 29, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€750k"
+        },
+        {
+            "name": "Bastian Schweinsteiger",
+            "birthdate": "Aug 1, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€24.00m"
+        },
+        {
+            "name": "Mark van Bommel",
+            "birthdate": "Apr 22, 1977 (47)",
+            "nationality": "Netherlands",
+            "market_value": "€6.50m"
+        },
+        {
+            "name": "José Sosa",
+            "birthdate": "Jun 19, 1985 (39)",
+            "nationality": "Argentina",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Edson Braafheid",
+            "birthdate": "Apr 8, 1983 (41)",
+            "nationality": "Netherlands",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "David Alaba",
+            "birthdate": "Jun 24, 1992 (32)",
+            "nationality": "Austria",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Hamit Altıntop",
+            "birthdate": "Dec 8, 1982 (41)",
+            "nationality": "Türkiye",
+            "market_value": "€6.50m"
+        },
+        {
+            "name": "Anatoliy Tymoshchuk",
+            "birthdate": "Mar 30, 1979 (45)",
+            "nationality": "Ukraine",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Franck Ribéry",
+            "birthdate": "Apr 7, 1983 (41)",
+            "nationality": "France",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€10.00m"
+        },
+        {
+            "name": "Danijel Pranjic",
+            "birthdate": "Dec 2, 1981 (42)",
+            "nationality": "Croatia",
+            "market_value": "€7.50m"
+        },
+        {
+            "name": "Arjen Robben",
+            "birthdate": "Jan 23, 1984 (40)",
+            "nationality": "Netherlands",
+            "market_value": "€38.00m"
+        },
+        {
+            "name": "Mehmet Ekici",
+            "birthdate": "Mar 25, 1990 (34)",
+            "nationality": "Türkiye",
+            "market_value": "€700k"
+        },
+        {
+            "name": "Diego Contento",
+            "birthdate": "May 1, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Mario Gómez",
+            "birthdate": "Jul 10, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€27.50m"
+        },
+        {
+            "name": "Luca Toni",
+            "birthdate": "May 26, 1977 (47)",
+            "nationality": "Italy",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Miroslav Klose",
+            "birthdate": "Jun 9, 1978 (46)",
+            "nationality": "Germany",
+            "market_value": "€7.50m"
+        },
+        {
+            "name": "Alexander Baumjohann",
+            "birthdate": "Jan 23, 1987 (37)",
+            "nationality": "Germany",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Ivica Olic",
+            "birthdate": "Sep 14, 1979 (44)",
+            "nationality": "Croatia",
+            "market_value": "€12.00m"
+        }
+    ],
+    "2010": [
+        {
+            "name": "Hans Jörg Butt",
+            "birthdate": "May 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Thomas Kraft",
+            "birthdate": "Jul 22, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Breno",
+            "birthdate": "Oct 13, 1989 (34)",
+            "nationality": "Brazil",
+            "market_value": "€5.50m"
+        },
+        {
+            "name": "David Alaba",
+            "birthdate": "Jun 24, 1992 (32)",
+            "nationality": "Austria",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "Daniel Van Buyten",
+            "birthdate": "Feb 7, 1978 (46)",
+            "nationality": "Belgium",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Martín Demichelis",
+            "birthdate": "Dec 20, 1980 (43)",
+            "nationality": "Argentina",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "Danijel Pranjic",
+            "birthdate": "Dec 2, 1981 (42)",
+            "nationality": "Croatia",
+            "market_value": "€7.50m"
+        },
+        {
+            "name": "Holger Badstuber",
+            "birthdate": "Mar 13, 1989 (35)",
+            "nationality": "Germany",
+            "market_value": "€8.50m"
+        },
+        {
+            "name": "Diego Contento",
+            "birthdate": "May 1, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Philipp Lahm",
+            "birthdate": "Nov 11, 1983 (40)",
+            "nationality": "Germany",
+            "market_value": "€28.00m"
+        },
+        {
+            "name": "Andreas Ottl",
+            "birthdate": "Mar 1, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Toni Kroos",
+            "birthdate": "Jan 4, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€12.00m"
+        },
+        {
+            "name": "Rouven Sattelmaier",
+            "birthdate": "Aug 7, 1987 (37)",
+            "nationality": "Germany",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Edson Braafheid",
+            "birthdate": "Apr 8, 1983 (41)",
+            "nationality": "Netherlands",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Bastian Schweinsteiger",
+            "birthdate": "Aug 1, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Anatoliy Tymoshchuk",
+            "birthdate": "Mar 30, 1979 (45)",
+            "nationality": "Ukraine",
+            "market_value": "€6.50m"
+        },
+        {
+            "name": "Maximilian Riedmüller",
+            "birthdate": "Jan 4, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€150k"
+        },
+        {
+            "name": "Luiz Gustavo",
+            "birthdate": "Jul 23, 1987 (37)",
+            "nationality": "Brazil",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "José Sosa",
+            "birthdate": "Jun 19, 1985 (39)",
+            "nationality": "Argentina",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Mark van Bommel",
+            "birthdate": "Apr 22, 1977 (47)",
+            "nationality": "Netherlands",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Franck Ribéry",
+            "birthdate": "Apr 7, 1983 (41)",
+            "nationality": "France",
+            "market_value": "€38.00m"
+        },
+        {
+            "name": "Hamit Altıntop",
+            "birthdate": "Dec 8, 1982 (41)",
+            "nationality": "Türkiye",
+            "market_value": "€6.00m"
+        },
+        {
+            "name": "Ivica Olic",
+            "birthdate": "Sep 14, 1979 (44)",
+            "nationality": "Croatia",
+            "market_value": "€8.50m"
+        },
+        {
+            "name": "Mario Gómez",
+            "birthdate": "Jul 10, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Arjen Robben",
+            "birthdate": "Jan 23, 1984 (40)",
+            "nationality": "Netherlands",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Boy Deul",
+            "birthdate": "Aug 30, 1987 (37)",
+            "nationality": "Curacao",
+            "market_value": "€350k"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€28.00m"
+        },
+        {
+            "name": "Miroslav Klose",
+            "birthdate": "Jun 9, 1978 (46)",
+            "nationality": "Germany",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "Nicolas Jüllich",
+            "birthdate": "Mar 27, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Christoph Knasmüllner",
+            "birthdate": "Apr 30, 1992 (32)",
+            "nationality": "Austria",
+            "market_value": "€350k"
+        },
+        {
+            "name": "Nicola Sansone",
+            "birthdate": "Sep 10, 1991 (32)",
+            "nationality": "Italy",
+            "market_value": "€125k"
+        }
+    ],
+    "2011": [
+        {
+            "name": "Hans Jörg Butt",
+            "birthdate": "May 28, 1974 (50)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Rouven Sattelmaier",
+            "birthdate": "Aug 7, 1987 (37)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "Maximilian Riedmüller",
+            "birthdate": "Jan 4, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "David Alaba",
+            "birthdate": "Jun 24, 1992 (32)",
+            "nationality": "Austria",
+            "market_value": "€16.00m"
+        },
+        {
+            "name": "Holger Badstuber",
+            "birthdate": "Mar 13, 1989 (35)",
+            "nationality": "Germany",
+            "market_value": "€22.00m"
+        },
+        {
+            "name": "Danijel Pranjic",
+            "birthdate": "Dec 2, 1981 (42)",
+            "nationality": "Croatia",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Manuel Neuer",
+            "birthdate": "Mar 27, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Daniel Van Buyten",
+            "birthdate": "Feb 7, 1978 (46)",
+            "nationality": "Belgium",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Diego Contento",
+            "birthdate": "May 1, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Breno",
+            "birthdate": "Oct 13, 1989 (34)",
+            "nationality": "Brazil",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Jérôme Boateng",
+            "birthdate": "Sep 3, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "Philipp Lahm",
+            "birthdate": "Nov 11, 1983 (40)",
+            "nationality": "Germany",
+            "market_value": "€28.00m"
+        },
+        {
+            "name": "Emre Can",
+            "birthdate": "Jan 12, 1994 (30)",
+            "nationality": "Germany",
+            "market_value": "€600k"
+        },
+        {
+            "name": "Luiz Gustavo",
+            "birthdate": "Jul 23, 1987 (37)",
+            "nationality": "Brazil",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "Bastian Schweinsteiger",
+            "birthdate": "Aug 1, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Anatoliy Tymoshchuk",
+            "birthdate": "Mar 30, 1979 (45)",
+            "nationality": "Ukraine",
+            "market_value": "€3.50m"
+        },
+        {
+            "name": "Toni Kroos",
+            "birthdate": "Jan 4, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€23.00m"
+        },
+        {
+            "name": "Arjen Robben",
+            "birthdate": "Jan 23, 1984 (40)",
+            "nationality": "Netherlands",
+            "market_value": "€28.00m"
+        },
+        {
+            "name": "Franck Ribéry",
+            "birthdate": "Apr 7, 1983 (41)",
+            "nationality": "France",
+            "market_value": "€42.00m"
+        },
+        {
+            "name": "Rafinha",
+            "birthdate": "Sep 7, 1985 (38)",
+            "nationality": "Brazil",
+            "market_value": "€6.50m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€32.00m"
+        },
+        {
+            "name": "Ivica Olic",
+            "birthdate": "Sep 14, 1979 (44)",
+            "nationality": "Croatia",
+            "market_value": "€3.50m"
+        },
+        {
+            "name": "Mario Gómez",
+            "birthdate": "Jul 10, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€42.00m"
+        },
+        {
+            "name": "Nils Petersen",
+            "birthdate": "Dec 6, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Takashi Usami",
+            "birthdate": "May 6, 1992 (32)",
+            "nationality": "Japan",
+            "market_value": "€1.50m"
+        }
+    ],
+    "2012": [
+        {
+            "name": "Maximilian Riedmüller",
+            "birthdate": "Jan 4, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€100k"
+        },
+        {
+            "name": "David Alaba",
+            "birthdate": "Jun 24, 1992 (32)",
+            "nationality": "Austria",
+            "market_value": "€28.00m"
+        },
+        {
+            "name": "Holger Badstuber",
+            "birthdate": "Mar 13, 1989 (35)",
+            "nationality": "Germany",
+            "market_value": "€17.00m"
+        },
+        {
+            "name": "Jérôme Boateng",
+            "birthdate": "Sep 3, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€20.00m"
+        },
+        {
+            "name": "Manuel Neuer",
+            "birthdate": "Mar 27, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Diego Contento",
+            "birthdate": "May 1, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Daniel Van Buyten",
+            "birthdate": "Feb 7, 1978 (46)",
+            "nationality": "Belgium",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Philipp Lahm",
+            "birthdate": "Nov 11, 1983 (40)",
+            "nationality": "Germany",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Tom Starke",
+            "birthdate": "Mar 18, 1981 (43)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Rafinha",
+            "birthdate": "Sep 7, 1985 (38)",
+            "nationality": "Brazil",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Luiz Gustavo",
+            "birthdate": "Jul 23, 1987 (37)",
+            "nationality": "Brazil",
+            "market_value": "€18.00m"
+        },
+        {
+            "name": "Anatoliy Tymoshchuk",
+            "birthdate": "Mar 30, 1979 (45)",
+            "nationality": "Ukraine",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Dante",
+            "birthdate": "Oct 18, 1983 (40)",
+            "nationality": "Brazil",
+            "market_value": "€17.00m"
+        },
+        {
+            "name": "Emre Can",
+            "birthdate": "Jan 12, 1994 (30)",
+            "nationality": "Germany",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Lukas Raeder",
+            "birthdate": "Dec 30, 1993 (30)",
+            "nationality": "Germany",
+            "market_value": "€150k"
+        },
+        {
+            "name": "Javi Martínez",
+            "birthdate": "Sep 2, 1988 (35)",
+            "nationality": "Spain",
+            "market_value": "€37.00m"
+        },
+        {
+            "name": "Mitchell Weiser",
+            "birthdate": "Apr 21, 1994 (30)",
+            "nationality": "Germany",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Bastian Schweinsteiger",
+            "birthdate": "Aug 1, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Toni Kroos",
+            "birthdate": "Jan 4, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€32.00m"
+        },
+        {
+            "name": "Xherdan Shaqiri",
+            "birthdate": "Oct 10, 1991 (32)",
+            "nationality": "Switzerland",
+            "market_value": "€16.00m"
+        },
+        {
+            "name": "Vladimir Rankovic",
+            "birthdate": "Jun 27, 1993 (31)",
+            "nationality": "Germany",
+            "market_value": "€150k"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€45.00m"
+        },
+        {
+            "name": "Franck Ribéry",
+            "birthdate": "Apr 7, 1983 (41)",
+            "nationality": "France",
+            "market_value": "€42.00m"
+        },
+        {
+            "name": "Arjen Robben",
+            "birthdate": "Jan 23, 1984 (40)",
+            "nationality": "Netherlands",
+            "market_value": "€22.00m"
+        },
+        {
+            "name": "Pierre-Emile Højbjerg",
+            "birthdate": "Aug 5, 1995 (29)",
+            "nationality": "Denmark",
+            "market_value": "€500k"
+        },
+        {
+            "name": "Mario Gómez",
+            "birthdate": "Jul 10, 1985 (39)",
+            "nationality": "Germany",
+            "market_value": "€28.00m"
+        },
+        {
+            "name": "Claudio Pizarro",
+            "birthdate": "Oct 3, 1978 (45)",
+            "nationality": "Peru",
+            "market_value": "€2.75m"
+        },
+        {
+            "name": "Mario Mandžukić",
+            "birthdate": "May 21, 1986 (38)",
+            "nationality": "Croatia",
+            "market_value": "€23.00m"
+        },
+        {
+            "name": "Patrick Weihrauch",
+            "birthdate": "Mar 3, 1994 (30)",
+            "nationality": "Germany",
+            "market_value": "€250k"
+        }
+    ],
+    "2013": [
+        {
+            "name": "Manuel Neuer",
+            "birthdate": "Mar 27, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Tom Starke",
+            "birthdate": "Mar 18, 1981 (43)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "David Alaba",
+            "birthdate": "Jun 24, 1992 (32)",
+            "nationality": "Austria",
+            "market_value": "€32.00m"
+        },
+        {
+            "name": "Lukas Raeder",
+            "birthdate": "Dec 30, 1993 (30)",
+            "nationality": "Germany",
+            "market_value": "€150k"
+        },
+        {
+            "name": "Jérôme Boateng",
+            "birthdate": "Sep 3, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€28.00m"
+        },
+        {
+            "name": "Daniel Van Buyten",
+            "birthdate": "Feb 7, 1978 (46)",
+            "nationality": "Belgium",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Dante",
+            "birthdate": "Oct 18, 1983 (40)",
+            "nationality": "Brazil",
+            "market_value": "€17.00m"
+        },
+        {
+            "name": "Holger Badstuber",
+            "birthdate": "Mar 13, 1989 (35)",
+            "nationality": "Germany",
+            "market_value": "€10.00m"
+        },
+        {
+            "name": "Diego Contento",
+            "birthdate": "May 1, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Leopold Zingerle",
+            "birthdate": "Apr 10, 1994 (30)",
+            "nationality": "Germany",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Mitchell Weiser",
+            "birthdate": "Apr 21, 1994 (30)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Philipp Lahm",
+            "birthdate": "Nov 11, 1983 (40)",
+            "nationality": "Germany",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Luiz Gustavo",
+            "birthdate": "Jul 23, 1987 (37)",
+            "nationality": "Brazil",
+            "market_value": "€18.00m"
+        },
+        {
+            "name": "Rafinha",
+            "birthdate": "Sep 7, 1985 (38)",
+            "nationality": "Brazil",
+            "market_value": "€10.00m"
+        },
+        {
+            "name": "Pierre-Emile Højbjerg",
+            "birthdate": "Aug 5, 1995 (29)",
+            "nationality": "Denmark",
+            "market_value": "€1.25m"
+        },
+        {
+            "name": "Javi Martínez",
+            "birthdate": "Sep 2, 1988 (35)",
+            "nationality": "Spain",
+            "market_value": "€37.00m"
+        },
+        {
+            "name": "Bastian Schweinsteiger",
+            "birthdate": "Aug 1, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Thiago Alcántara",
+            "birthdate": "Apr 11, 1991 (33)",
+            "nationality": "Spain",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Toni Kroos",
+            "birthdate": "Jan 4, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Benno Schmitz",
+            "birthdate": "Nov 17, 1994 (29)",
+            "nationality": "Germany",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Xherdan Shaqiri",
+            "birthdate": "Oct 10, 1991 (32)",
+            "nationality": "Switzerland",
+            "market_value": "€20.00m"
+        },
+        {
+            "name": "Franck Ribéry",
+            "birthdate": "Apr 7, 1983 (41)",
+            "nationality": "France",
+            "market_value": "€42.00m"
+        },
+        {
+            "name": "Raif Husic",
+            "birthdate": "Feb 5, 1996 (28)",
+            "nationality": "Germany",
+            "market_value": "€25k"
+        },
+        {
+            "name": "Ylli Sallahi",
+            "birthdate": "Apr 6, 1994 (30)",
+            "nationality": "Austria",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Julian Green",
+            "birthdate": "Jun 6, 1995 (29)",
+            "nationality": "United States",
+            "market_value": "€500k"
+        },
+        {
+            "name": "Patrick Weihrauch",
+            "birthdate": "Mar 3, 1994 (30)",
+            "nationality": "Germany",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Mario Götze",
+            "birthdate": "Jun 3, 1992 (32)",
+            "nationality": "Germany",
+            "market_value": "€55.00m"
+        },
+        {
+            "name": "Arjen Robben",
+            "birthdate": "Jan 23, 1984 (40)",
+            "nationality": "Netherlands",
+            "market_value": "€25.00m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€45.00m"
+        },
+        {
+            "name": "Alessandro Schöpf",
+            "birthdate": "Feb 7, 1994 (30)",
+            "nationality": "Austria",
+            "market_value": "€400k"
+        },
+        {
+            "name": "Claudio Pizarro",
+            "birthdate": "Oct 3, 1978 (45)",
+            "nationality": "Peru",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Mario Mandžukić",
+            "birthdate": "May 21, 1986 (38)",
+            "nationality": "Croatia",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Jan Kirchhoff",
+            "birthdate": "Oct 1, 1990 (33)",
+            "nationality": "Germany",
+            "market_value": "€4.00m"
+        }
+    ],
+    "2014": [
+        {
+            "name": "Manuel Neuer",
+            "birthdate": "Mar 27, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€45.00m"
+        },
+        {
+            "name": "Tom Starke",
+            "birthdate": "Mar 18, 1981 (43)",
+            "nationality": "Germany",
+            "market_value": "€500k"
+        },
+        {
+            "name": "Holger Badstuber",
+            "birthdate": "Mar 13, 1989 (35)",
+            "nationality": "Germany",
+            "market_value": "€7.50m"
+        },
+        {
+            "name": "Leopold Zingerle",
+            "birthdate": "Apr 10, 1994 (30)",
+            "nationality": "Germany",
+            "market_value": "€150k"
+        },
+        {
+            "name": "Dante",
+            "birthdate": "Oct 18, 1983 (40)",
+            "nationality": "Brazil",
+            "market_value": "€11.00m"
+        },
+        {
+            "name": "Jérôme Boateng",
+            "birthdate": "Sep 3, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "David Alaba",
+            "birthdate": "Jun 24, 1992 (32)",
+            "nationality": "Austria",
+            "market_value": "€38.00m"
+        },
+        {
+            "name": "Pepe Reina",
+            "birthdate": "Aug 31, 1982 (42)",
+            "nationality": "Spain",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Mitchell Weiser",
+            "birthdate": "Apr 21, 1994 (30)",
+            "nationality": "Germany",
+            "market_value": "€750k"
+        },
+        {
+            "name": "Rafinha",
+            "birthdate": "Sep 7, 1985 (38)",
+            "nationality": "Brazil",
+            "market_value": "€9.00m"
+        },
+        {
+            "name": "Philipp Lahm",
+            "birthdate": "Nov 11, 1983 (40)",
+            "nationality": "Germany",
+            "market_value": "€28.00m"
+        },
+        {
+            "name": "Javi Martínez",
+            "birthdate": "Sep 2, 1988 (35)",
+            "nationality": "Spain",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Pierre-Emile Højbjerg",
+            "birthdate": "Aug 5, 1995 (29)",
+            "nationality": "Denmark",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Juan Bernat",
+            "birthdate": "Mar 1, 1993 (31)",
+            "nationality": "Spain",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "Medhi Benatia",
+            "birthdate": "Apr 17, 1987 (37)",
+            "nationality": "Morocco",
+            "market_value": "€28.00m"
+        },
+        {
+            "name": "Ivan Lucic",
+            "birthdate": "Mar 23, 1995 (29)",
+            "nationality": "Austria",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Bastian Schweinsteiger",
+            "birthdate": "Aug 1, 1984 (40)",
+            "nationality": "Germany",
+            "market_value": "€28.00m"
+        },
+        {
+            "name": "Thiago Alcántara",
+            "birthdate": "Apr 11, 1991 (33)",
+            "nationality": "Spain",
+            "market_value": "€25.00m"
+        },
+        {
+            "name": "Julian Green",
+            "birthdate": "Jun 6, 1995 (29)",
+            "nationality": "United States",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Mario Götze",
+            "birthdate": "Jun 3, 1992 (32)",
+            "nationality": "Germany",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Franck Ribéry",
+            "birthdate": "Apr 7, 1983 (41)",
+            "nationality": "France",
+            "market_value": "€32.00m"
+        },
+        {
+            "name": "Xherdan Shaqiri",
+            "birthdate": "Oct 10, 1991 (32)",
+            "nationality": "Switzerland",
+            "market_value": "€18.00m"
+        },
+        {
+            "name": "Gianluca Gaudino",
+            "birthdate": "Nov 11, 1996 (27)",
+            "nationality": "Germany",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Lucas Scholl",
+            "birthdate": "Jul 5, 1996 (28)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Rico Strieder",
+            "birthdate": "Jul 6, 1992 (32)",
+            "nationality": "Germany",
+            "market_value": "€75k"
+        },
+        {
+            "name": "Arjen Robben",
+            "birthdate": "Jan 23, 1984 (40)",
+            "nationality": "Netherlands",
+            "market_value": "€33.00m"
+        },
+        {
+            "name": "Xabi Alonso",
+            "birthdate": "Nov 25, 1981 (42)",
+            "nationality": "Spain",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€55.00m"
+        },
+        {
+            "name": "Sinan Kurt",
+            "birthdate": "Jul 23, 1996 (28)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Lukas Görtler",
+            "birthdate": "Jun 15, 1994 (30)",
+            "nationality": "Germany",
+            "market_value": "€50k"
+        },
+        {
+            "name": "Claudio Pizarro",
+            "birthdate": "Oct 3, 1978 (45)",
+            "nationality": "Peru",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Sebastian Rode",
+            "birthdate": "Oct 11, 1990 (33)",
+            "nationality": "Germany",
+            "market_value": "€9.00m"
+        },
+        {
+            "name": "Robert Lewandowski",
+            "birthdate": "Aug 21, 1988 (36)",
+            "nationality": "Poland",
+            "market_value": "€50.00m"
+        }
+    ],
+    "2015": [
+        {
+            "name": "Tom Starke",
+            "birthdate": "Mar 18, 1981 (43)",
+            "nationality": "Germany",
+            "market_value": "€300k"
+        },
+        {
+            "name": "Manuel Neuer",
+            "birthdate": "Mar 27, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€45.00m"
+        },
+        {
+            "name": "David Alaba",
+            "birthdate": "Jun 24, 1992 (32)",
+            "nationality": "Austria",
+            "market_value": "€45.00m"
+        },
+        {
+            "name": "Ivan Lucic",
+            "birthdate": "Mar 23, 1995 (29)",
+            "nationality": "Austria",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Jérôme Boateng",
+            "birthdate": "Sep 3, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Dante",
+            "birthdate": "Oct 18, 1983 (40)",
+            "nationality": "Brazil",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Medhi Benatia",
+            "birthdate": "Apr 17, 1987 (37)",
+            "nationality": "Morocco",
+            "market_value": "€18.00m"
+        },
+        {
+            "name": "Holger Badstuber",
+            "birthdate": "Mar 13, 1989 (35)",
+            "nationality": "Germany",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Sven Ulreich",
+            "birthdate": "Aug 3, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€3.50m"
+        },
+        {
+            "name": "Juan Bernat",
+            "birthdate": "Mar 1, 1993 (31)",
+            "nationality": "Spain",
+            "market_value": "€18.00m"
+        },
+        {
+            "name": "Javi Martínez",
+            "birthdate": "Sep 2, 1988 (35)",
+            "nationality": "Spain",
+            "market_value": "€25.00m"
+        },
+        {
+            "name": "Philipp Lahm",
+            "birthdate": "Nov 11, 1983 (40)",
+            "nationality": "Germany",
+            "market_value": "€16.00m"
+        },
+        {
+            "name": "Serdar Taşçı",
+            "birthdate": "Apr 24, 1987 (37)",
+            "nationality": "Germany",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "Rafinha",
+            "birthdate": "Sep 7, 1985 (38)",
+            "nationality": "Brazil",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Jan Kirchhoff",
+            "birthdate": "Oct 1, 1990 (33)",
+            "nationality": "Germany",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Xabi Alonso",
+            "birthdate": "Nov 25, 1981 (42)",
+            "nationality": "Spain",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "Pierre-Emile Højbjerg",
+            "birthdate": "Aug 5, 1995 (29)",
+            "nationality": "Denmark",
+            "market_value": "€6.00m"
+        },
+        {
+            "name": "Thiago Alcántara",
+            "birthdate": "Apr 11, 1991 (33)",
+            "nationality": "Spain",
+            "market_value": "€25.00m"
+        },
+        {
+            "name": "Phillipp Steinhart",
+            "birthdate": "Jul 7, 1992 (32)",
+            "nationality": "Germany",
+            "market_value": "€150k"
+        },
+        {
+            "name": "Gianluca Gaudino",
+            "birthdate": "Nov 11, 1996 (27)",
+            "nationality": "Germany",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Sebastian Rode",
+            "birthdate": "Oct 11, 1990 (33)",
+            "nationality": "Germany",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Julian Green",
+            "birthdate": "Jun 6, 1995 (29)",
+            "nationality": "United States",
+            "market_value": "€500k"
+        },
+        {
+            "name": "Mario Götze",
+            "birthdate": "Jun 3, 1992 (32)",
+            "nationality": "Germany",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Patrick Weihrauch",
+            "birthdate": "Mar 3, 1994 (30)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "Franck Ribéry",
+            "birthdate": "Apr 7, 1983 (41)",
+            "nationality": "France",
+            "market_value": "€10.00m"
+        },
+        {
+            "name": "Arturo Vidal",
+            "birthdate": "May 22, 1987 (37)",
+            "nationality": "Chile",
+            "market_value": "€37.00m"
+        },
+        {
+            "name": "Kingsley Coman",
+            "birthdate": "Jun 13, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€17.00m"
+        },
+        {
+            "name": "Arjen Robben",
+            "birthdate": "Jan 23, 1984 (40)",
+            "nationality": "Netherlands",
+            "market_value": "€20.00m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€75.00m"
+        },
+        {
+            "name": "Robert Lewandowski",
+            "birthdate": "Aug 21, 1988 (36)",
+            "nationality": "Poland",
+            "market_value": "€75.00m"
+        },
+        {
+            "name": "Joshua Kimmich",
+            "birthdate": "Feb 8, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€13.00m"
+        },
+        {
+            "name": "Douglas Costa",
+            "birthdate": "Sep 14, 1990 (33)",
+            "nationality": "Brazil",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Milos Pantovic",
+            "birthdate": "Jul 7, 1996 (28)",
+            "nationality": "Serbia",
+            "market_value": "€75k"
+        },
+        {
+            "name": "Fabian Benko",
+            "birthdate": "Jun 5, 1998 (26)",
+            "nationality": "Croatia",
+            "market_value": "€75k"
+        }
+    ],
+    "2016": [
+        {
+            "name": "Jérôme Boateng",
+            "birthdate": "Sep 3, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€38.00m"
+        },
+        {
+            "name": "Tom Starke",
+            "birthdate": "Mar 18, 1981 (43)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "David Alaba",
+            "birthdate": "Jun 24, 1992 (32)",
+            "nationality": "Austria",
+            "market_value": "€38.00m"
+        },
+        {
+            "name": "Sven Ulreich",
+            "birthdate": "Aug 3, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Mats Hummels",
+            "birthdate": "Dec 16, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Manuel Neuer",
+            "birthdate": "Mar 27, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Holger Badstuber",
+            "birthdate": "Mar 13, 1989 (35)",
+            "nationality": "Germany",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Medhi Benatia",
+            "birthdate": "Apr 17, 1987 (37)",
+            "nationality": "Morocco",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "Leo Weinkauf",
+            "birthdate": "Jul 7, 1996 (28)",
+            "nationality": "Germany",
+            "market_value": "€50k"
+        },
+        {
+            "name": "Juan Bernat",
+            "birthdate": "Mar 1, 1993 (31)",
+            "nationality": "Spain",
+            "market_value": "€16.00m"
+        },
+        {
+            "name": "Philipp Lahm",
+            "birthdate": "Nov 11, 1983 (40)",
+            "nationality": "Germany",
+            "market_value": "€11.00m"
+        },
+        {
+            "name": "Rafinha",
+            "birthdate": "Sep 7, 1985 (38)",
+            "nationality": "Brazil",
+            "market_value": "€4.50m"
+        },
+        {
+            "name": "Xabi Alonso",
+            "birthdate": "Nov 25, 1981 (42)",
+            "nationality": "Spain",
+            "market_value": "€3.50m"
+        },
+        {
+            "name": "Javi Martínez",
+            "birthdate": "Sep 2, 1988 (35)",
+            "nationality": "Spain",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Felix Götze",
+            "birthdate": "Feb 11, 1998 (26)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Arturo Vidal",
+            "birthdate": "May 22, 1987 (37)",
+            "nationality": "Chile",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Nicolas Feldhahn",
+            "birthdate": "Aug 14, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Thiago Alcántara",
+            "birthdate": "Apr 11, 1991 (33)",
+            "nationality": "Spain",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Gianluca Gaudino",
+            "birthdate": "Nov 11, 1996 (27)",
+            "nationality": "Germany",
+            "market_value": "€1.25m"
+        },
+        {
+            "name": "Joshua Kimmich",
+            "birthdate": "Feb 8, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€25.00m"
+        },
+        {
+            "name": "Marco Friedl",
+            "birthdate": "Mar 16, 1998 (26)",
+            "nationality": "Austria",
+            "market_value": "-"
+        },
+        {
+            "name": "Julian Green",
+            "birthdate": "Jun 6, 1995 (29)",
+            "nationality": "United States",
+            "market_value": "€700k"
+        },
+        {
+            "name": "Niklas Dorsch",
+            "birthdate": "Jan 15, 1998 (26)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "Franck Ribéry",
+            "birthdate": "Apr 7, 1983 (41)",
+            "nationality": "France",
+            "market_value": "€7.00m"
+        },
+        {
+            "name": "Kingsley Coman",
+            "birthdate": "Jun 13, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€20.00m"
+        },
+        {
+            "name": "Fabian Benko",
+            "birthdate": "Jun 5, 1998 (26)",
+            "nationality": "Croatia",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Arjen Robben",
+            "birthdate": "Jan 23, 1984 (40)",
+            "nationality": "Netherlands",
+            "market_value": "€10.00m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Douglas Costa",
+            "birthdate": "Sep 14, 1990 (33)",
+            "nationality": "Brazil",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Robert Lewandowski",
+            "birthdate": "Aug 21, 1988 (36)",
+            "nationality": "Poland",
+            "market_value": "€80.00m"
+        },
+        {
+            "name": "Erdal Öztürk",
+            "birthdate": "Feb 7, 1996 (28)",
+            "nationality": "Türkiye",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Renato Sanches",
+            "birthdate": "Aug 18, 1997 (27)",
+            "nationality": "Portugal",
+            "market_value": "€22.00m"
+        },
+        {
+            "name": "Raphael Obermair",
+            "birthdate": "Apr 1, 1996 (28)",
+            "nationality": "Philippines",
+            "market_value": "€50k"
+        }
+    ],
+    "2017": [
+        {
+            "name": "Manuel Neuer",
+            "birthdate": "Mar 27, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Sven Ulreich",
+            "birthdate": "Aug 3, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€6.00m"
+        },
+        {
+            "name": "Leo Weinkauf",
+            "birthdate": "Jul 7, 1996 (28)",
+            "nationality": "Germany",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Tom Starke",
+            "birthdate": "Mar 18, 1981 (43)",
+            "nationality": "Germany",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Jérôme Boateng",
+            "birthdate": "Sep 3, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€45.00m"
+        },
+        {
+            "name": "David Alaba",
+            "birthdate": "Jun 24, 1992 (32)",
+            "nationality": "Austria",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Ron-Thorben Hoffmann",
+            "birthdate": "Apr 4, 1999 (25)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Mats Hummels",
+            "birthdate": "Dec 16, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€60.00m"
+        },
+        {
+            "name": "Christian Früchtl",
+            "birthdate": "Jan 28, 2000 (24)",
+            "nationality": "Germany",
+            "market_value": "€150k"
+        },
+        {
+            "name": "Marco Friedl",
+            "birthdate": "Mar 16, 1998 (26)",
+            "nationality": "Austria",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Felix Götze",
+            "birthdate": "Feb 11, 1998 (26)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "Niklas Süle",
+            "birthdate": "Sep 3, 1995 (28)",
+            "nationality": "Germany",
+            "market_value": "€38.00m"
+        },
+        {
+            "name": "Rafinha",
+            "birthdate": "Sep 7, 1985 (38)",
+            "nationality": "Brazil",
+            "market_value": "€3.50m"
+        },
+        {
+            "name": "Juan Bernat",
+            "birthdate": "Mar 1, 1993 (31)",
+            "nationality": "Spain",
+            "market_value": "€12.00m"
+        },
+        {
+            "name": "Javi Martínez",
+            "birthdate": "Sep 2, 1988 (35)",
+            "nationality": "Spain",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Niklas Dorsch",
+            "birthdate": "Jan 15, 1998 (26)",
+            "nationality": "Germany",
+            "market_value": "€400k"
+        },
+        {
+            "name": "Joshua Kimmich",
+            "birthdate": "Feb 8, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€55.00m"
+        },
+        {
+            "name": "Renato Sanches",
+            "birthdate": "Aug 18, 1997 (27)",
+            "nationality": "Portugal",
+            "market_value": "€20.00m"
+        },
+        {
+            "name": "Arturo Vidal",
+            "birthdate": "May 22, 1987 (37)",
+            "nationality": "Chile",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Thiago Alcántara",
+            "birthdate": "Apr 11, 1991 (33)",
+            "nationality": "Spain",
+            "market_value": "€60.00m"
+        },
+        {
+            "name": "Lukas Mai",
+            "birthdate": "Mar 31, 2000 (24)",
+            "nationality": "Germany",
+            "market_value": "€600k"
+        },
+        {
+            "name": "Milos Pantovic",
+            "birthdate": "Jul 7, 1996 (28)",
+            "nationality": "Serbia",
+            "market_value": "€150k"
+        },
+        {
+            "name": "Corentin Tolisso",
+            "birthdate": "Aug 3, 1994 (30)",
+            "nationality": "France",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Jonathan Meier",
+            "birthdate": "Nov 11, 1999 (24)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Fabian Benko",
+            "birthdate": "Jun 5, 1998 (26)",
+            "nationality": "Croatia",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Franck Ribéry",
+            "birthdate": "Apr 7, 1983 (41)",
+            "nationality": "France",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Kingsley Coman",
+            "birthdate": "Jun 13, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Timothy Tillman",
+            "birthdate": "Jan 4, 1999 (25)",
+            "nationality": "United States",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Sebastian Rudy",
+            "birthdate": "Feb 28, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "James Rodríguez",
+            "birthdate": "Jul 12, 1991 (33)",
+            "nationality": "Colombia",
+            "market_value": "€70.00m"
+        },
+        {
+            "name": "Meritan Shabani",
+            "birthdate": "Mar 15, 1999 (25)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Arjen Robben",
+            "birthdate": "Jan 23, 1984 (40)",
+            "nationality": "Netherlands",
+            "market_value": "€7.00m"
+        },
+        {
+            "name": "Robert Lewandowski",
+            "birthdate": "Aug 21, 1988 (36)",
+            "nationality": "Poland",
+            "market_value": "€90.00m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€60.00m"
+        },
+        {
+            "name": "Sandro Wagner",
+            "birthdate": "Nov 29, 1987 (36)",
+            "nationality": "Germany",
+            "market_value": "€12.00m"
+        },
+        {
+            "name": "Franck Evina",
+            "birthdate": "Jul 5, 2000 (24)",
+            "nationality": "Cameroon",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Manuel Wintzheimer",
+            "birthdate": "Jan 10, 1999 (25)",
+            "nationality": "Germany",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Kwasi Wriedt",
+            "birthdate": "Jul 10, 1994 (30)",
+            "nationality": "Ghana",
+            "market_value": "€600k"
+        }
+    ],
+    "2018": [
+        {
+            "name": "Sven Ulreich",
+            "birthdate": "Aug 3, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€4.50m"
+        },
+        {
+            "name": "Manuel Neuer",
+            "birthdate": "Mar 27, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€18.00m"
+        },
+        {
+            "name": "Marco Friedl",
+            "birthdate": "Mar 16, 1998 (26)",
+            "nationality": "Austria",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Lukas Mai",
+            "birthdate": "Mar 31, 2000 (24)",
+            "nationality": "Germany",
+            "market_value": "€600k"
+        },
+        {
+            "name": "Jérôme Boateng",
+            "birthdate": "Sep 3, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€20.00m"
+        },
+        {
+            "name": "Mats Hummels",
+            "birthdate": "Dec 16, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Niklas Süle",
+            "birthdate": "Sep 3, 1995 (28)",
+            "nationality": "Germany",
+            "market_value": "€60.00m"
+        },
+        {
+            "name": "Ron-Thorben Hoffmann",
+            "birthdate": "Apr 4, 1999 (25)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "Christian Früchtl",
+            "birthdate": "Jan 28, 2000 (24)",
+            "nationality": "Germany",
+            "market_value": "€500k"
+        },
+        {
+            "name": "David Alaba",
+            "birthdate": "Jun 24, 1992 (32)",
+            "nationality": "Austria",
+            "market_value": "€55.00m"
+        },
+        {
+            "name": "Juan Bernat",
+            "birthdate": "Mar 1, 1993 (31)",
+            "nationality": "Spain",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "Rafinha",
+            "birthdate": "Sep 7, 1985 (38)",
+            "nationality": "Brazil",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Javi Martínez",
+            "birthdate": "Sep 2, 1988 (35)",
+            "nationality": "Spain",
+            "market_value": "€27.00m"
+        },
+        {
+            "name": "Alphonso Davies",
+            "birthdate": "Nov 2, 2000 (23)",
+            "nationality": "Canada",
+            "market_value": "€10.00m"
+        },
+        {
+            "name": "Sebastian Rudy",
+            "birthdate": "Feb 28, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€9.00m"
+        },
+        {
+            "name": "Jonathan Meier",
+            "birthdate": "Nov 11, 1999 (24)",
+            "nationality": "Germany",
+            "market_value": "€100k"
+        },
+        {
+            "name": "Joshua Kimmich",
+            "birthdate": "Feb 8, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€70.00m"
+        },
+        {
+            "name": "Thiago Alcántara",
+            "birthdate": "Apr 11, 1991 (33)",
+            "nationality": "Spain",
+            "market_value": "€70.00m"
+        },
+        {
+            "name": "Corentin Tolisso",
+            "birthdate": "Aug 3, 1994 (30)",
+            "nationality": "France",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "James Rodríguez",
+            "birthdate": "Jul 12, 1991 (33)",
+            "nationality": "Colombia",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Paul Will",
+            "birthdate": "Mar 1, 1999 (25)",
+            "nationality": "Germany",
+            "market_value": "€125k"
+        },
+        {
+            "name": "Renato Sanches",
+            "birthdate": "Aug 18, 1997 (27)",
+            "nationality": "Portugal",
+            "market_value": "€18.00m"
+        },
+        {
+            "name": "Meritan Shabani",
+            "birthdate": "Mar 15, 1999 (25)",
+            "nationality": "Germany",
+            "market_value": "€350k"
+        },
+        {
+            "name": "Kingsley Coman",
+            "birthdate": "Jun 13, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Leon Goretzka",
+            "birthdate": "Feb 6, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Robert Lewandowski",
+            "birthdate": "Aug 21, 1988 (36)",
+            "nationality": "Poland",
+            "market_value": "€65.00m"
+        },
+        {
+            "name": "Franck Ribéry",
+            "birthdate": "Apr 7, 1983 (41)",
+            "nationality": "France",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Arjen Robben",
+            "birthdate": "Jan 23, 1984 (40)",
+            "nationality": "Netherlands",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Sandro Wagner",
+            "birthdate": "Nov 29, 1987 (36)",
+            "nationality": "Germany",
+            "market_value": "€6.00m"
+        },
+        {
+            "name": "Woo-yeong Jeong",
+            "birthdate": "Sep 20, 1999 (24)",
+            "nationality": "Korea, South",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Serge Gnabry",
+            "birthdate": "Jul 14, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€60.00m"
+        }
+    ],
+    "2019": [
+        {
+            "name": "Manuel Neuer",
+            "birthdate": "Mar 27, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€14.50m"
+        },
+        {
+            "name": "Ron-Thorben Hoffmann",
+            "birthdate": "Apr 4, 1999 (25)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "Sven Ulreich",
+            "birthdate": "Aug 3, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€3.50m"
+        },
+        {
+            "name": "Christian Früchtl",
+            "birthdate": "Jan 28, 2000 (24)",
+            "nationality": "Germany",
+            "market_value": "€525k"
+        },
+        {
+            "name": "Niklas Süle",
+            "birthdate": "Sep 3, 1995 (28)",
+            "nationality": "Germany",
+            "market_value": "€48.00m"
+        },
+        {
+            "name": "Lukas Mai",
+            "birthdate": "Mar 31, 2000 (24)",
+            "nationality": "Germany",
+            "market_value": "€2.30m"
+        },
+        {
+            "name": "David Alaba",
+            "birthdate": "Jun 24, 1992 (32)",
+            "nationality": "Austria",
+            "market_value": "€52.00m"
+        },
+        {
+            "name": "Jérôme Boateng",
+            "birthdate": "Sep 3, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€12.00m"
+        },
+        {
+            "name": "Alphonso Davies",
+            "birthdate": "Nov 2, 2000 (23)",
+            "nationality": "Canada",
+            "market_value": "€45.00m"
+        },
+        {
+            "name": "Javi Martínez",
+            "birthdate": "Sep 2, 1988 (35)",
+            "nationality": "Spain",
+            "market_value": "€13.00m"
+        },
+        {
+            "name": "Joshua Kimmich",
+            "birthdate": "Feb 8, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€64.00m"
+        },
+        {
+            "name": "Paul Will",
+            "birthdate": "Mar 1, 1999 (25)",
+            "nationality": "Germany",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Bright Arrey-Mbi",
+            "birthdate": "Mar 26, 2003 (21)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Chris Richards",
+            "birthdate": "Mar 28, 2000 (24)",
+            "nationality": "United States",
+            "market_value": "€1.80m"
+        },
+        {
+            "name": "Thiago Alcántara",
+            "birthdate": "Apr 11, 1991 (33)",
+            "nationality": "Spain",
+            "market_value": "€48.00m"
+        },
+        {
+            "name": "Corentin Tolisso",
+            "birthdate": "Aug 3, 1994 (30)",
+            "nationality": "France",
+            "market_value": "€25.50m"
+        },
+        {
+            "name": "Leon Goretzka",
+            "birthdate": "Feb 6, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Renato Sanches",
+            "birthdate": "Aug 18, 1997 (27)",
+            "nationality": "Portugal",
+            "market_value": "€16.00m"
+        },
+        {
+            "name": "Álvaro Odriozola",
+            "birthdate": "Dec 14, 1995 (28)",
+            "nationality": "Spain",
+            "market_value": "€16.00m"
+        },
+        {
+            "name": "Benjamin Pavard",
+            "birthdate": "Mar 28, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€28.00m"
+        },
+        {
+            "name": "Woo-yeong Jeong",
+            "birthdate": "Sep 20, 1999 (24)",
+            "nationality": "Korea, South",
+            "market_value": "€1.80m"
+        },
+        {
+            "name": "Kingsley Coman",
+            "birthdate": "Jun 13, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Serge Gnabry",
+            "birthdate": "Jul 14, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€72.00m"
+        },
+        {
+            "name": "Ryan Johansson",
+            "birthdate": "Feb 15, 2001 (23)",
+            "nationality": "Luxembourg",
+            "market_value": "€50k"
+        },
+        {
+            "name": "Michaël Cuisance",
+            "birthdate": "Aug 16, 1999 (25)",
+            "nationality": "France",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Lucas Hernández",
+            "birthdate": "Feb 14, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€56.00m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€25.50m"
+        },
+        {
+            "name": "Robert Lewandowski",
+            "birthdate": "Aug 21, 1988 (36)",
+            "nationality": "Poland",
+            "market_value": "€56.00m"
+        },
+        {
+            "name": "Kwasi Wriedt",
+            "birthdate": "Jul 10, 1994 (30)",
+            "nationality": "Ghana",
+            "market_value": "€800k"
+        },
+        {
+            "name": "Ivan Perisic",
+            "birthdate": "Feb 2, 1989 (35)",
+            "nationality": "Croatia",
+            "market_value": "€17.50m"
+        },
+        {
+            "name": "Jamal Musiala",
+            "birthdate": "Feb 26, 2003 (21)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Oliver Batista Meier",
+            "birthdate": "Feb 16, 2001 (23)",
+            "nationality": "Germany",
+            "market_value": "€900k"
+        },
+        {
+            "name": "Joshua Zirkzee",
+            "birthdate": "May 22, 2001 (23)",
+            "nationality": "Netherlands",
+            "market_value": "€6.30m"
+        },
+        {
+            "name": "Philippe Coutinho",
+            "birthdate": "Jun 12, 1992 (32)",
+            "nationality": "Brazil",
+            "market_value": "€56.00m"
+        },
+        {
+            "name": "Sarpreet Singh",
+            "birthdate": "Feb 20, 1999 (25)",
+            "nationality": "New Zealand",
+            "market_value": "€900k"
+        },
+        {
+            "name": "Malik Tillman",
+            "birthdate": "May 28, 2002 (22)",
+            "nationality": "United States",
+            "market_value": "-"
+        },
+        {
+            "name": "Fiete Arp",
+            "birthdate": "Jan 6, 2000 (24)",
+            "nationality": "Germany",
+            "market_value": "€2.70m"
+        },
+        {
+            "name": "Leon Dajaku",
+            "birthdate": "Apr 12, 2001 (23)",
+            "nationality": "Germany",
+            "market_value": "€2.30m"
+        }
+    ],
+    "2020": [
+        {
+            "name": "Manuel Neuer",
+            "birthdate": "Mar 27, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€18.00m"
+        },
+        {
+            "name": "Sven Ulreich",
+            "birthdate": "Aug 3, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€900k"
+        },
+        {
+            "name": "Niklas Süle",
+            "birthdate": "Sep 3, 1995 (28)",
+            "nationality": "Germany",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Benjamin Pavard",
+            "birthdate": "Mar 28, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "David Alaba",
+            "birthdate": "Jun 24, 1992 (32)",
+            "nationality": "Austria",
+            "market_value": "€55.00m"
+        },
+        {
+            "name": "Jérôme Boateng",
+            "birthdate": "Sep 3, 1988 (35)",
+            "nationality": "Germany",
+            "market_value": "€8.50m"
+        },
+        {
+            "name": "Ron-Thorben Hoffmann",
+            "birthdate": "Apr 4, 1999 (25)",
+            "nationality": "Germany",
+            "market_value": "€600k"
+        },
+        {
+            "name": "Lukas Schneller",
+            "birthdate": "Oct 26, 2001 (22)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "Alexander Nübel",
+            "birthdate": "Sep 30, 1996 (27)",
+            "nationality": "Germany",
+            "market_value": "€6.00m"
+        },
+        {
+            "name": "Chris Richards",
+            "birthdate": "Mar 28, 2000 (24)",
+            "nationality": "United States",
+            "market_value": "€7.50m"
+        },
+        {
+            "name": "Bright Arrey-Mbi",
+            "birthdate": "Mar 26, 2003 (21)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Tanguy Nianzou",
+            "birthdate": "Jun 7, 2002 (22)",
+            "nationality": "France",
+            "market_value": "€11.00m"
+        },
+        {
+            "name": "Lucas Hernández",
+            "birthdate": "Feb 14, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€45.00m"
+        },
+        {
+            "name": "Alphonso Davies",
+            "birthdate": "Nov 2, 2000 (23)",
+            "nationality": "Canada",
+            "market_value": "€70.00m"
+        },
+        {
+            "name": "Javi Martínez",
+            "birthdate": "Sep 2, 1988 (35)",
+            "nationality": "Spain",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "Rémy Vita",
+            "birthdate": "Apr 1, 2001 (23)",
+            "nationality": "Madagascar",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Joshua Kimmich",
+            "birthdate": "Feb 8, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€90.00m"
+        },
+        {
+            "name": "Leon Goretzka",
+            "birthdate": "Feb 6, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€70.00m"
+        },
+        {
+            "name": "Josip Stanisic",
+            "birthdate": "Apr 2, 2000 (24)",
+            "nationality": "Croatia",
+            "market_value": "€400k"
+        },
+        {
+            "name": "Corentin Tolisso",
+            "birthdate": "Aug 3, 1994 (30)",
+            "nationality": "France",
+            "market_value": "€20.00m"
+        },
+        {
+            "name": "Adrian Fein",
+            "birthdate": "Mar 18, 1999 (25)",
+            "nationality": "Germany",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Angelo Stiller",
+            "birthdate": "Apr 4, 2001 (23)",
+            "nationality": "Germany",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Kilian Senkbeil",
+            "birthdate": "May 22, 1999 (25)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "Maximilian Zaiser",
+            "birthdate": "Mar 8, 1999 (25)",
+            "nationality": "Germany",
+            "market_value": "€225k"
+        },
+        {
+            "name": "Bouna Sarr",
+            "birthdate": "Jan 31, 1992 (32)",
+            "nationality": "Senegal",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Michaël Cuisance",
+            "birthdate": "Aug 16, 1999 (25)",
+            "nationality": "France",
+            "market_value": "€7.00m"
+        },
+        {
+            "name": "Marc Roca",
+            "birthdate": "Nov 26, 1996 (27)",
+            "nationality": "Spain",
+            "market_value": "€10.00m"
+        },
+        {
+            "name": "Alexander Lungwitz",
+            "birthdate": "Aug 4, 2000 (24)",
+            "nationality": "Germany",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Jamal Musiala",
+            "birthdate": "Feb 26, 2003 (21)",
+            "nationality": "Germany",
+            "market_value": "€38.00m"
+        },
+        {
+            "name": "Kingsley Coman",
+            "birthdate": "Jun 13, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€65.00m"
+        },
+        {
+            "name": "Tiago Dantas",
+            "birthdate": "Dec 24, 2000 (23)",
+            "nationality": "Portugal",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Malik Tillman",
+            "birthdate": "May 28, 2002 (22)",
+            "nationality": "United States",
+            "market_value": "€500k"
+        },
+        {
+            "name": "Serge Gnabry",
+            "birthdate": "Jul 14, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€70.00m"
+        },
+        {
+            "name": "Douglas Costa",
+            "birthdate": "Sep 14, 1990 (33)",
+            "nationality": "Brazil",
+            "market_value": "€6.00m"
+        },
+        {
+            "name": "Robert Lewandowski",
+            "birthdate": "Aug 21, 1988 (36)",
+            "nationality": "Poland",
+            "market_value": "€60.00m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Leon Dajaku",
+            "birthdate": "Apr 12, 2001 (23)",
+            "nationality": "Germany",
+            "market_value": "€1.80m"
+        },
+        {
+            "name": "Christopher Scott",
+            "birthdate": "Jun 7, 2002 (22)",
+            "nationality": "Germany",
+            "market_value": "€1.20m"
+        },
+        {
+            "name": "Leroy Sané",
+            "birthdate": "Jan 11, 1996 (28)",
+            "nationality": "Germany",
+            "market_value": "€60.00m"
+        },
+        {
+            "name": "Joshua Zirkzee",
+            "birthdate": "May 22, 2001 (23)",
+            "nationality": "Netherlands",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Fiete Arp",
+            "birthdate": "Jan 6, 2000 (24)",
+            "nationality": "Germany",
+            "market_value": "€800k"
+        },
+        {
+            "name": "Eric-Maxim Choupo-Moting",
+            "birthdate": "Mar 23, 1989 (35)",
+            "nationality": "Cameroon",
+            "market_value": "€3.50m"
+        },
+        {
+            "name": "Armindo Sieb",
+            "birthdate": "Feb 17, 2003 (21)",
+            "nationality": "Germany",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Daniels Ontuzans",
+            "birthdate": "Mar 7, 2000 (24)",
+            "nationality": "Latvia",
+            "market_value": "€150k"
+        },
+        {
+            "name": "Dimitri Oberlin",
+            "birthdate": "Sep 27, 1997 (26)",
+            "nationality": "Switzerland",
+            "market_value": "€500k"
+        }
+    ],
+    "2021": [
+        {
+            "name": "Manuel Neuer",
+            "birthdate": "Mar 27, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "Sven Ulreich",
+            "birthdate": "Aug 3, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€900k"
+        },
+        {
+            "name": "Christian Früchtl",
+            "birthdate": "Jan 28, 2000 (24)",
+            "nationality": "Germany",
+            "market_value": "€600k"
+        },
+        {
+            "name": "Bright Arrey-Mbi",
+            "birthdate": "Mar 26, 2003 (21)",
+            "nationality": "Germany",
+            "market_value": "€1.30m"
+        },
+        {
+            "name": "Ron-Thorben Hoffmann",
+            "birthdate": "Apr 4, 1999 (25)",
+            "nationality": "Germany",
+            "market_value": "€500k"
+        },
+        {
+            "name": "Niklas Süle",
+            "birthdate": "Sep 3, 1995 (28)",
+            "nationality": "Germany",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Chris Richards",
+            "birthdate": "Mar 28, 2000 (24)",
+            "nationality": "United States",
+            "market_value": "€7.50m"
+        },
+        {
+            "name": "Benjamin Pavard",
+            "birthdate": "Mar 28, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Tanguy Nianzou",
+            "birthdate": "Jun 7, 2002 (22)",
+            "nationality": "France",
+            "market_value": "€9.00m"
+        },
+        {
+            "name": "Alphonso Davies",
+            "birthdate": "Nov 2, 2000 (23)",
+            "nationality": "Canada",
+            "market_value": "€70.00m"
+        },
+        {
+            "name": "Lucas Hernández",
+            "birthdate": "Feb 14, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Joshua Kimmich",
+            "birthdate": "Feb 8, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€80.00m"
+        },
+        {
+            "name": "Bouna Sarr",
+            "birthdate": "Jan 31, 1992 (32)",
+            "nationality": "Senegal",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Josip Stanisic",
+            "birthdate": "Apr 2, 2000 (24)",
+            "nationality": "Croatia",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Marc Roca",
+            "birthdate": "Nov 26, 1996 (27)",
+            "nationality": "Spain",
+            "market_value": "€7.00m"
+        },
+        {
+            "name": "Nicolas Feldhahn",
+            "birthdate": "Aug 14, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€125k"
+        },
+        {
+            "name": "Leon Goretzka",
+            "birthdate": "Feb 6, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€65.00m"
+        },
+        {
+            "name": "Dayot Upamecano",
+            "birthdate": "Oct 27, 1998 (25)",
+            "nationality": "France",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Corentin Tolisso",
+            "birthdate": "Aug 3, 1994 (30)",
+            "nationality": "France",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "Michaël Cuisance",
+            "birthdate": "Aug 16, 1999 (25)",
+            "nationality": "France",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Jamal Musiala",
+            "birthdate": "Feb 26, 2003 (21)",
+            "nationality": "Germany",
+            "market_value": "€65.00m"
+        },
+        {
+            "name": "Malik Tillman",
+            "birthdate": "May 28, 2002 (22)",
+            "nationality": "United States",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Kingsley Coman",
+            "birthdate": "Jun 13, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€60.00m"
+        },
+        {
+            "name": "Omar Richards",
+            "birthdate": "Feb 15, 1998 (26)",
+            "nationality": "England",
+            "market_value": "€7.00m"
+        },
+        {
+            "name": "Marcel Sabitzer",
+            "birthdate": "Mar 17, 1994 (30)",
+            "nationality": "Austria",
+            "market_value": "€15.00m"
+        },
+        {
+            "name": "Jamie Lawrence",
+            "birthdate": "Nov 10, 2002 (21)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Serge Gnabry",
+            "birthdate": "Jul 14, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€65.00m"
+        },
+        {
+            "name": "Timo Kern",
+            "birthdate": "Jan 16, 1990 (34)",
+            "nationality": "Germany",
+            "market_value": "€200k"
+        },
+        {
+            "name": "Leroy Sané",
+            "birthdate": "Jan 11, 1996 (28)",
+            "nationality": "Germany",
+            "market_value": "€60.00m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€22.00m"
+        },
+        {
+            "name": "Paul Wanner",
+            "birthdate": "Dec 23, 2005 (18)",
+            "nationality": "Germany",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Nemanja Motika",
+            "birthdate": "Mar 20, 2003 (21)",
+            "nationality": "Serbia",
+            "market_value": "€1.20m"
+        },
+        {
+            "name": "Robert Lewandowski",
+            "birthdate": "Aug 21, 1988 (36)",
+            "nationality": "Poland",
+            "market_value": "€45.00m"
+        },
+        {
+            "name": "Taylor Booth",
+            "birthdate": "May 31, 2001 (23)",
+            "nationality": "United States",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Gabriel Vidovic",
+            "birthdate": "Dec 1, 2003 (20)",
+            "nationality": "Croatia",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Eric-Maxim Choupo-Moting",
+            "birthdate": "Mar 23, 1989 (35)",
+            "nationality": "Cameroon",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Arijon Ibrahimović",
+            "birthdate": "Dec 11, 2005 (18)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Lucas Copado",
+            "birthdate": "Jan 10, 2004 (20)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        }
+    ],
+    "2022": [
+        {
+            "name": "Manuel Neuer",
+            "birthdate": "Mar 27, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€7.00m"
+        },
+        {
+            "name": "Benjamin Pavard",
+            "birthdate": "Mar 28, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Sven Ulreich",
+            "birthdate": "Aug 3, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€700k"
+        },
+        {
+            "name": "Tanguy Nianzou",
+            "birthdate": "Jun 7, 2002 (22)",
+            "nationality": "France",
+            "market_value": "€7.50m"
+        },
+        {
+            "name": "Dayot Upamecano",
+            "birthdate": "Oct 27, 1998 (25)",
+            "nationality": "France",
+            "market_value": "€60.00m"
+        },
+        {
+            "name": "Alphonso Davies",
+            "birthdate": "Nov 2, 2000 (23)",
+            "nationality": "Canada",
+            "market_value": "€70.00m"
+        },
+        {
+            "name": "Lucas Hernández",
+            "birthdate": "Feb 14, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€45.00m"
+        },
+        {
+            "name": "Yann Sommer",
+            "birthdate": "Dec 17, 1988 (35)",
+            "nationality": "Switzerland",
+            "market_value": "€5.00m"
+        },
+        {
+            "name": "Josip Stanisic",
+            "birthdate": "Apr 2, 2000 (24)",
+            "nationality": "Croatia",
+            "market_value": "€12.00m"
+        },
+        {
+            "name": "Bouna Sarr",
+            "birthdate": "Jan 31, 1992 (32)",
+            "nationality": "Senegal",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Justin Janitzek",
+            "birthdate": "Feb 10, 2004 (20)",
+            "nationality": "Germany",
+            "market_value": "€500k"
+        },
+        {
+            "name": "Johannes Schenk",
+            "birthdate": "Jan 13, 2003 (21)",
+            "nationality": "Germany",
+            "market_value": "€300k"
+        },
+        {
+            "name": "Gabriel Marusic",
+            "birthdate": "Mar 3, 2003 (21)",
+            "nationality": "Croatia",
+            "market_value": "€150k"
+        },
+        {
+            "name": "Liam Morrison",
+            "birthdate": "Apr 7, 2003 (21)",
+            "nationality": "Scotland",
+            "market_value": "€300k"
+        },
+        {
+            "name": "Matthijs de Ligt",
+            "birthdate": "Aug 12, 1999 (25)",
+            "nationality": "Netherlands",
+            "market_value": "€75.00m"
+        },
+        {
+            "name": "João Cancelo",
+            "birthdate": "May 27, 1994 (30)",
+            "nationality": "Portugal",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Daley Blind",
+            "birthdate": "Mar 9, 1990 (34)",
+            "nationality": "Netherlands",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Marcel Sabitzer",
+            "birthdate": "Mar 17, 1994 (30)",
+            "nationality": "Austria",
+            "market_value": "€20.00m"
+        },
+        {
+            "name": "Ryan Gravenberch",
+            "birthdate": "May 16, 2002 (22)",
+            "nationality": "Netherlands",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Noussair Mazraoui",
+            "birthdate": "Nov 14, 1997 (26)",
+            "nationality": "Morocco",
+            "market_value": "€28.00m"
+        },
+        {
+            "name": "Joshua Kimmich",
+            "birthdate": "Feb 8, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€75.00m"
+        },
+        {
+            "name": "Paul Wanner",
+            "birthdate": "Dec 23, 2005 (18)",
+            "nationality": "Germany",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Aleksandar Pavlovic",
+            "birthdate": "May 3, 2004 (20)",
+            "nationality": "Germany",
+            "market_value": "-"
+        },
+        {
+            "name": "Leon Goretzka",
+            "birthdate": "Feb 6, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€45.00m"
+        },
+        {
+            "name": "Jamal Musiala",
+            "birthdate": "Feb 26, 2003 (21)",
+            "nationality": "Germany",
+            "market_value": "€110.00m"
+        },
+        {
+            "name": "Kingsley Coman",
+            "birthdate": "Jun 13, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€65.00m"
+        },
+        {
+            "name": "Gabriel Vidovic",
+            "birthdate": "Dec 1, 2003 (20)",
+            "nationality": "Croatia",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Arijon Ibrahimović",
+            "birthdate": "Dec 11, 2005 (18)",
+            "nationality": "Germany",
+            "market_value": "€1.00m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€12.00m"
+        },
+        {
+            "name": "Serge Gnabry",
+            "birthdate": "Jul 14, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€55.00m"
+        },
+        {
+            "name": "Mathys Tel",
+            "birthdate": "Apr 27, 2005 (19)",
+            "nationality": "France",
+            "market_value": "€20.00m"
+        },
+        {
+            "name": "Joshua Zirkzee",
+            "birthdate": "May 22, 2001 (23)",
+            "nationality": "Netherlands",
+            "market_value": "€9.00m"
+        },
+        {
+            "name": "Leroy Sané",
+            "birthdate": "Jan 11, 1996 (28)",
+            "nationality": "Germany",
+            "market_value": "€65.00m"
+        },
+        {
+            "name": "Sadio Mané",
+            "birthdate": "Apr 10, 1992 (32)",
+            "nationality": "Senegal",
+            "market_value": "€25.00m"
+        },
+        {
+            "name": "Eric-Maxim Choupo-Moting",
+            "birthdate": "Mar 23, 1989 (35)",
+            "nationality": "Cameroon",
+            "market_value": "€5.00m"
+        }
+    ],
+    "2023": [
+        {
+            "name": "Manuel Neuer",
+            "birthdate": "Mar 27, 1986 (38)",
+            "nationality": "Germany",
+            "market_value": "€4.00m"
+        },
+        {
+            "name": "Sven Ulreich",
+            "birthdate": "Aug 3, 1988 (36)",
+            "nationality": "Germany",
+            "market_value": "€700k"
+        },
+        {
+            "name": "Dayot Upamecano",
+            "birthdate": "Oct 27, 1998 (25)",
+            "nationality": "France",
+            "market_value": "€45.00m"
+        },
+        {
+            "name": "Benjamin Pavard",
+            "birthdate": "Mar 28, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Matthijs de Ligt",
+            "birthdate": "Aug 12, 1999 (25)",
+            "nationality": "Netherlands",
+            "market_value": "€65.00m"
+        },
+        {
+            "name": "Daniel Peretz",
+            "birthdate": "Jul 10, 2000 (24)",
+            "nationality": "Israel",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Alphonso Davies",
+            "birthdate": "Nov 2, 2000 (23)",
+            "nationality": "Canada",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Min-jae Kim",
+            "birthdate": "Nov 15, 1996 (27)",
+            "nationality": "Korea, South",
+            "market_value": "€45.00m"
+        },
+        {
+            "name": "Tom Hülsmann",
+            "birthdate": "Apr 11, 2004 (20)",
+            "nationality": "Germany",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Eric Dier",
+            "birthdate": "Jan 15, 1994 (30)",
+            "nationality": "England",
+            "market_value": "€12.00m"
+        },
+        {
+            "name": "Tarek Buchmann",
+            "birthdate": "Feb 28, 2005 (19)",
+            "nationality": "Germany",
+            "market_value": "€500k"
+        },
+        {
+            "name": "Noussair Mazraoui",
+            "birthdate": "Nov 14, 1997 (26)",
+            "nationality": "Morocco",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Bouna Sarr",
+            "birthdate": "Jan 31, 1992 (32)",
+            "nationality": "Senegal",
+            "market_value": "€1.50m"
+        },
+        {
+            "name": "Adam Aznou",
+            "birthdate": "Jun 2, 2006 (18)",
+            "nationality": "Morocco",
+            "market_value": "€900k"
+        },
+        {
+            "name": "Raphaël Guerreiro",
+            "birthdate": "Dec 22, 1993 (30)",
+            "nationality": "Portugal",
+            "market_value": "€12.00m"
+        },
+        {
+            "name": "Luca Denk",
+            "birthdate": "Mar 2, 2003 (21)",
+            "nationality": "Germany",
+            "market_value": "€250k"
+        },
+        {
+            "name": "Aleksandar Pavlovic",
+            "birthdate": "May 3, 2004 (20)",
+            "nationality": "Germany",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Frans Krätzig",
+            "birthdate": "Jan 14, 2003 (21)",
+            "nationality": "Germany",
+            "market_value": "€2.00m"
+        },
+        {
+            "name": "Sacha Boey",
+            "birthdate": "Sep 13, 2000 (23)",
+            "nationality": "France",
+            "market_value": "€18.00m"
+        },
+        {
+            "name": "Matteo Pérez Vinlöf",
+            "birthdate": "Dec 18, 2005 (18)",
+            "nationality": "Sweden",
+            "market_value": "€600k"
+        },
+        {
+            "name": "Max Scholze",
+            "birthdate": "Apr 30, 2005 (19)",
+            "nationality": "Germany",
+            "market_value": "€700k"
+        },
+        {
+            "name": "Joshua Kimmich",
+            "birthdate": "Feb 8, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Max Schmitt",
+            "birthdate": "Jan 18, 2006 (18)",
+            "nationality": "Germany",
+            "market_value": "€500k"
+        },
+        {
+            "name": "Ryan Gravenberch",
+            "birthdate": "May 16, 2002 (22)",
+            "nationality": "Netherlands",
+            "market_value": "€35.00m"
+        },
+        {
+            "name": "Leon Goretzka",
+            "birthdate": "Feb 6, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Noël Aséko Nkili",
+            "birthdate": "Nov 22, 2005 (18)",
+            "nationality": "Germany",
+            "market_value": "€750k"
+        },
+        {
+            "name": "Jamal Musiala",
+            "birthdate": "Feb 26, 2003 (21)",
+            "nationality": "Germany",
+            "market_value": "€120.00m"
+        },
+        {
+            "name": "Kingsley Coman",
+            "birthdate": "Jun 13, 1996 (28)",
+            "nationality": "France",
+            "market_value": "€50.00m"
+        },
+        {
+            "name": "Mathys Tel",
+            "birthdate": "Apr 27, 2005 (19)",
+            "nationality": "France",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Serge Gnabry",
+            "birthdate": "Jul 14, 1995 (29)",
+            "nationality": "Germany",
+            "market_value": "€40.00m"
+        },
+        {
+            "name": "Leroy Sané",
+            "birthdate": "Jan 11, 1996 (28)",
+            "nationality": "Germany",
+            "market_value": "€70.00m"
+        },
+        {
+            "name": "Thomas Müller",
+            "birthdate": "Sep 13, 1989 (34)",
+            "nationality": "Germany",
+            "market_value": "€8.00m"
+        },
+        {
+            "name": "Lovro Zvonarek",
+            "birthdate": "May 8, 2005 (19)",
+            "nationality": "Croatia",
+            "market_value": "€3.00m"
+        },
+        {
+            "name": "Konrad Laimer",
+            "birthdate": "May 27, 1997 (27)",
+            "nationality": "Austria",
+            "market_value": "€30.00m"
+        },
+        {
+            "name": "Bryan Zaragoza",
+            "birthdate": "Sep 9, 2001 (22)",
+            "nationality": "Spain",
+            "market_value": "€12.00m"
+        },
+        {
+            "name": "Jonathan Asp-Jensen",
+            "birthdate": "Jan 14, 2006 (18)",
+            "nationality": "Denmark",
+            "market_value": "€1.30m"
+        },
+        {
+            "name": "Taichi Fukui",
+            "birthdate": "Jul 15, 2004 (20)",
+            "nationality": "Japan",
+            "market_value": "€700k"
+        },
+        {
+            "name": "Eric-Maxim Choupo-Moting",
+            "birthdate": "Mar 23, 1989 (35)",
+            "nationality": "Cameroon",
+            "market_value": "€2.50m"
+        },
+        {
+            "name": "Harry Kane",
+            "birthdate": "Jul 28, 1993 (31)",
+            "nationality": "England",
+            "market_value": "€100.00m"
+        }
+    ]
+}

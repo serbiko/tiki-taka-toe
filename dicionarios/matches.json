@@ -1,0 +1,4002 @@
+[
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Ilkay Gundogan"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Andrew Robertson"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Sergio Ramos"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Virgil van Dijk",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Virgil van Dijk",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Marco Verratti",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Fabinho"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Ilkay Gundogan"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Erling Haaland"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Andrew Robertson"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Thibaut Courtois"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Andrew Robertson"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Federico Valverde",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "Riyad Mahrez",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "David Luiz"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Thibaut Courtois"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Ilkay Gundogan"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Thibaut Courtois"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Sergio Ramos"
+    },
+    {
+        "player1": "Marco Verratti",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Christian Pulisic",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Riyad Mahrez",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Fabinho"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "David Luiz"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Marco Verratti",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Riyad Mahrez",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Virgil van Dijk",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Mohamed Salah"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Jude Bellingham"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Christian Pulisic",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Christian Pulisic",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Marco Verratti",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Andrew Robertson"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Andrew Robertson"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Sergio Ramos"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Thibaut Courtois"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "David Luiz"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Christian Pulisic",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Christian Pulisic",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Ilkay Gundogan"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "Marco Verratti",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Sergio Ramos"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Jude Bellingham"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Mohamed Salah"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "David Luiz"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Andrew Robertson"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "David Luiz"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Fabinho"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Ilkay Gundogan"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "David Luiz"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Cristiano Ronaldo",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "David Luiz"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Christian Pulisic",
+        "player2": "Jude Bellingham"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Mohamed Salah"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Mohamed Salah"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Federico Valverde",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Jude Bellingham"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Jude Bellingham"
+    },
+    {
+        "player1": "Marco Verratti",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Ilkay Gundogan"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Mohamed Salah"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Mohamed Salah"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Fabinho"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Christian Pulisic",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Mohamed Salah"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Federico Valverde",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Sergio Ramos"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Mohamed Salah"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Thibaut Courtois"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Sergio Ramos"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Mohamed Salah"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Sergio Ramos"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Christian Pulisic",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Virgil van Dijk",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Riyad Mahrez",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Federico Valverde",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "David Luiz"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Mohamed Salah"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Marco Verratti",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Ilkay Gundogan"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Federico Valverde",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Virgil van Dijk",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Virgil van Dijk",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Thibaut Courtois"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "David Luiz"
+    },
+    {
+        "player1": "Christian Pulisic",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Marco Verratti",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Andrew Robertson"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Erling Haaland"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Federico Valverde",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Jude Bellingham"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Andrew Robertson"
+    },
+    {
+        "player1": "Virgil van Dijk",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Erling Haaland"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Christian Pulisic",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Riyad Mahrez",
+        "player2": "Sergio Ramos"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Ilkay Gundogan"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "David Luiz"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Riyad Mahrez",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Christian Pulisic",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Virgil van Dijk",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Andrew Robertson"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Fabinho"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Thibaut Courtois"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Fabinho"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Ilkay Gundogan"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Thibaut Courtois"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Ilkay Gundogan"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Andrew Robertson"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Ilkay Gundogan"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Fabinho"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Marco Verratti",
+        "player2": "Thibaut Courtois"
+    },
+    {
+        "player1": "Virgil van Dijk",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Marco Verratti",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Jude Bellingham"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Erling Haaland"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Erling Haaland"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Sergio Ramos"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Erling Haaland"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Federico Valverde",
+        "player2": "David Luiz"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Riyad Mahrez",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Fabinho"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Erling Haaland"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "Jude Bellingham"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Erling Haaland"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Ilkay Gundogan"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Riyad Mahrez",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Trent Alexander-Arnold"
+    },
+    {
+        "player1": "Riyad Mahrez",
+        "player2": "Mohamed Salah"
+    },
+    {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Kylian Mbappe"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Mohamed Salah"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Thibaut Courtois"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Kevin De Bruyne",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Erling Haaland"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Fabinho"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Fabinho"
+    },
+    {
+        "player1": "Marquinhos",
+        "player2": "Frenkie de Jong"
+    },
+    {
+        "player1": "Christian Pulisic",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Thibaut Courtois",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Joshua Kimmich"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Raheem Sterling"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Raheem Sterling",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Fabinho"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Luka Modric"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Heung-min Son",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Luis Suarez",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Ilkay Gundogan"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Robert Lewandowski"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Gianluigi Donnarumma",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Andrew Robertson",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Gabriel Jesus",
+        "player2": "Mohamed Salah"
+    },
+    {
+        "player1": "Marco Reus",
+        "player2": "Neymar"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Phil Foden"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Kai Havertz"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Sergio Ramos"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Gianluigi Donnarumma"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Leroy Sane"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Marquinhos"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "David Luiz",
+        "player2": "Lionel Messi"
+    },
+    {
+        "player1": "Marco Verratti",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Antoine Griezmann",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Jude Bellingham"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Bruno Fernandes"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "N'Golo Kante",
+        "player2": "Andrew Robertson"
+    },
+    {
+        "player1": "Kylian Mbappe",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Sergio Ramos"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Sergio Ramos",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Jude Bellingham"
+    },
+    {
+        "player1": "Federico Valverde",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Phil Foden",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Heung-min Son"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Federico Valverde"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "Erling Haaland",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "Bernardo Silva",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Marco Verratti",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Federico Valverde",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Lautaro Martinez",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Harry Kane",
+        "player2": "Timo Werner"
+    },
+    {
+        "player1": "Bruno Fernandes",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Ilkay Gundogan",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Robert Lewandowski",
+        "player2": "Lautaro Martinez"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Tammy Abraham"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Paul Pogba",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Romelu Lukaku"
+    },
+    {
+        "player1": "Leroy Sane",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Serge Gnabry",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Neymar",
+        "player2": "Fabinho"
+    },
+    {
+        "player1": "Vinicius Junior",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Sadio Mane",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Vinicius Junior"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "David Luiz"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Tammy Abraham",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "Sadio Mane"
+    },
+    {
+        "player1": "David Alaba",
+        "player2": "Kevin De Bruyne"
+    },
+    {
+        "player1": "Trent Alexander-Arnold",
+        "player2": "Achraf Hakimi"
+    },
+    {
+        "player1": "Lionel Messi",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Federico Valverde",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Ruben Dias"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "Frenkie de Jong",
+        "player2": "Virgil van Dijk"
+    },
+    {
+        "player1": "Matthijs de Ligt",
+        "player2": "Jadon Sancho"
+    },
+    {
+        "player1": "Luka Modric",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Kai Havertz",
+        "player2": "Paul Pogba"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Gabriel Jesus"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Serge Gnabry"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Franck Kessie"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "David Alaba"
+    },
+    {
+        "player1": "Jude Bellingham",
+        "player2": "Riyad Mahrez"
+    },
+    {
+        "player1": "Riyad Mahrez",
+        "player2": "Marco Reus"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Cristiano Ronaldo"
+    },
+    {
+        "player1": "Fabinho",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Romelu Lukaku",
+        "player2": "Matthijs de Ligt"
+    },
+    {
+        "player1": "Jadon Sancho",
+        "player2": "N'Golo Kante"
+    },
+    {
+        "player1": "Declan Rice",
+        "player2": "Marco Verratti"
+    },
+    {
+        "player1": "Achraf Hakimi",
+        "player2": "Bernardo Silva"
+    },
+    {
+        "player1": "Ruben Dias",
+        "player2": "Luis Suarez"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Fabinho"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Harry Kane"
+    },
+    {
+        "player1": "Joshua Kimmich",
+        "player2": "Hakim Ziyech"
+    },
+    {
+        "player1": "Hakim Ziyech",
+        "player2": "Antoine Griezmann"
+    },
+    {
+        "player1": "Franck Kessie",
+        "player2": "Christian Pulisic"
+    },
+    {
+        "player1": "Timo Werner",
+        "player2": "Declan Rice"
+    },
+    {
+        "player1": "Mohamed Salah",
+        "player2": "Harry Kane"
+    }
+]
