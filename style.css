@@ -166,7 +166,13 @@ body {
 }
 
 .dropdown-content {
-    display: none;
-    list-style: none;
+    display: none !important; /* Certifique-se de que os conteúdos dropdown estejam ocultos */
+    list-style: none !important;
     padding-left: 20px;
+    margin: 0; /* Remove qualquer margem para evitar espaços em branco */
+}
+
+.no-click {
+    pointer-events: none; /* Remove a capacidade de clicar */
+    cursor: default; /* Mostra um cursor padrão ao invés do cursor de clique */
 }
