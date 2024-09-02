@@ -39,23 +39,31 @@ function setupSearchBar(players, commonPlayers) {
     const suggestionsContainer = document.getElementById('suggestions');
 
     searchInput.addEventListener('input', function() {
-        const query = this.value;
+        const query = this.value.trim();
         suggestionsContainer.innerHTML = '';
         currentFocus = -1; // Reset the current focus
+
         if (query) {
             const suggestions = filterPlayers(query, players);
-            suggestions.forEach((suggestion, index) => {
-                const div = document.createElement('div');
-                div.innerHTML = highlightMatch(suggestion, query);
-                div.addEventListener('click', () => {
-                    searchInput.value = suggestion;
-                    suggestionsContainer.innerHTML = '';
+            if (suggestions.length > 0) {
+                suggestions.forEach((suggestion, index) => {
+                    const div = document.createElement('div');
+                    div.innerHTML = highlightMatch(suggestion, query);
+                    div.addEventListener('click', () => {
+                        searchInput.value = suggestion;
+                        suggestionsContainer.innerHTML = '';
+                        suggestionsContainer.style.display = 'none'; // Oculta as sugestões após a seleção
+                    });
+                    suggestionsContainer.appendChild(div);
                 });
-                suggestionsContainer.appendChild(div);
-            });
-            suggestionsContainer.style.display = 'block';
+            } else {
+                const noMatchDiv = document.createElement('div');
+                noMatchDiv.innerHTML = "Nenhum jogador encontrado";
+                suggestionsContainer.appendChild(noMatchDiv);
+            }
+            suggestionsContainer.style.display = 'block'; // Exibe as sugestões
         } else {
-            suggestionsContainer.style.display = 'none';
+            suggestionsContainer.style.display = 'none'; // Oculta as sugestões quando não houver texto
         }
     });
 
@@ -163,25 +171,100 @@ function updateAttemptsDisplay() {
 }
 
 // Função para terminar o jogo e exibir as respostas corretas
-// Função para terminar o jogo e exibir as respostas corretas
 function endGame(success, correctPlayer, commonPlayers) {
     const correctAnswersContainer = document.getElementById('correct-answers-container');
     correctAnswersContainer.innerHTML = ''; // Limpa o conteúdo anterior
 
     if (success) {
         correctAnswersContainer.innerHTML = `
-            <div class="correct-answer">Você acertou: ${correctPlayer}</div>
-            ${commonPlayers.filter(player => player !== correctPlayer).map(player => `<div class="other-answer">${player}</div>`).join('')}
+            <div class="correct-answer" onclick="toggleDropdown('${correctPlayer}')">Você acertou: ${correctPlayer}</div>
+            <ul id="${correctPlayer}-details" class="dropdown-content"></ul>
+            ${commonPlayers.filter(player => player !== correctPlayer).map(player => `
+                <div class="other-answer" onclick="toggleDropdown('${player}')">${player}</div>
+                <ul id="${player}-details" class="dropdown-content"></ul>
+            `).join('')}
         `;
+        loadDropdownDetails(correctPlayer, commonPlayers);
     } else {
         correctAnswersContainer.innerHTML = `
-            ${commonPlayers.map(player => `<div class="correct-answer">${player}</div>`).join('')}
+            ${commonPlayers.map(player => `
+                <div class="correct-answer" onclick="toggleDropdown('${player}')">${player}</div>
+                <ul id="${player}-details" class="dropdown-content"></ul>
+            `).join('')}
         `;
+        loadDropdownDetails(null, commonPlayers);
     }
 
     correctAnswersContainer.style.visibility = 'visible';
 }
 
+// Função para carregar os detalhes do dropdown
+function loadDropdownDetails(correctPlayer, commonPlayers) {
+    const playerConnections = {}; // Carrega os dados de alldata.json
+
+    fetch('dicionarios/alldata.json')
+        .then(response => response.json())
+        .then(data => {
+            // Aqui vamos filtrar os times em que o jogador 1 e o jogador 2 jogaram
+            const player1 = document.getElementById('player1-name').innerText;
+            const player2 = document.getElementById('player2-name').innerText;
+
+            const player1Teams = data[player1] || [];
+            const player2Teams = data[player2] || [];
+
+            if (correctPlayer) {
+                playerConnections[correctPlayer] = filterCommonTeams(data[correctPlayer], player1Teams, player2Teams);
+            }
+
+            commonPlayers.forEach(player => {
+                playerConnections[player] = filterCommonTeams(data[player], player1Teams, player2Teams);
+            });
+
+            updateDropdownDetails(playerConnections);
+        })
+        .catch(error => console.error('Erro ao carregar os detalhes dos jogadores:', error));
+}
+
+// Função para filtrar times comuns entre os jogadores
+function filterCommonTeams(playerTeams, player1Teams, player2Teams) {
+    const commonWithPlayer1 = playerTeams.filter(team => player1Teams.includes(team));
+    const commonWithPlayer2 = playerTeams.filter(team => player2Teams.includes(team));
+
+    return { commonWithPlayer1, commonWithPlayer2 };
+}
+
+// Função para atualizar os detalhes dos dropdowns
+function updateDropdownDetails(playerConnections) {
+    Object.keys(playerConnections).forEach(player => {
+        const detailsContainer = document.getElementById(`${player}-details`);
+        if (detailsContainer) {
+            const { commonWithPlayer1, commonWithPlayer2 } = playerConnections[player];
+            let detailsHTML = '';
+
+            if (commonWithPlayer1.length > 0) {
+                detailsHTML += `<li>${player} jogou com ${document.getElementById('player1-name').innerText} em:</li>`;
+                detailsHTML += commonWithPlayer1.map(team => `<li>${team}</li>`).join('');
+            }
+
+            if (commonWithPlayer2.length > 0) {
+                detailsHTML += `<li>${player} jogou com ${document.getElementById('player2-name').innerText} em:</li>`;
+                detailsHTML += commonWithPlayer2.map(team => `<li>${team}</li>`).join('');
+            }
+
+            detailsContainer.innerHTML = detailsHTML || '<li>Nenhuma equipe em comum</li>';
+        }
+    });
+}
+
+// Função para exibir/ocultar os detalhes ao clicar
+function toggleDropdown(player) {
+    const detailsContainer = document.getElementById(`${player}-details`);
+    if (detailsContainer.style.display === 'block') {
+        detailsContainer.style.display = 'none';
+    } else {
+        detailsContainer.style.display = 'block';
+    }
+}
 
 // Função para inicializar o jogo
 function initializeGame() {

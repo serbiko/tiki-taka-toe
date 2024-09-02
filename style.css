@@ -1,13 +1,45 @@
 body {
     background-color: white;
     font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    user-select: none; /* Evita seleção de texto em toda a página */
+}
+
+.cabecalho {
+    background-color: black;
+    color: white;
+    padding: 20px 0; /* Aumenta a altura do cabeçalho */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 1000;
+}
+
+.cabecalho h1 {
+    background: -webkit-linear-gradient(left, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+    background: linear-gradient(to right, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 36px; /* Aumenta o tamanho da fonte */
+    margin: 0;
+}
+
+.container {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    height: 100vh;
-    margin: 0;
-    user-select: none; /* Evita seleção de texto em toda a página */
+    margin-top: 120px; /* Aumenta o espaço para o cabeçalho fixo */
+    padding: 20px;
+    text-align: center;
+}
+
+.descricao {
+    font-size: 24px; /* Aumenta o tamanho da fonte da descrição */
+    font-weight: bold;
+    margin-bottom: 20px; /* Espaço abaixo da descrição */
 }
 
 .player-container {
@@ -34,7 +66,7 @@ body {
     position: relative;
     display: flex;
     width: 400px;
-    margin-bottom: 20px; /* Adiciona espaço entre a search bar e as tentativas */
+    margin-bottom: 20px; /* Espaço entre a search bar e as tentativas */
 }
 
 .search-container input {
@@ -68,7 +100,7 @@ body {
     width: 100%;
     background-color: white;
     z-index: 1000;
-    display: none;
+    display: none; /* Inicialmente invisível */
 }
 
 .suggestions div {
@@ -120,6 +152,7 @@ body {
     margin: 5px 0;
     border-radius: 5px;
     text-align: center;
+    cursor: pointer;
 }
 
 .other-answer {
@@ -129,4 +162,11 @@ body {
     margin: 5px 0;
     border-radius: 5px;
     text-align: center;
+    cursor: pointer;
+}
+
+.dropdown-content {
+    display: none;
+    list-style: none;
+    padding-left: 20px;
 }
